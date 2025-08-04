@@ -1,0 +1,190 @@
+
+#  More on Annuities
+
+
+
+
+##  Lecture 16:  Annuities Due {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define an \textbf{annuity due} and distinguish it from an \textbf{ordinary annuity}.
+2. Calculate the \textbf{future value} of an annuity due using the appropriate formula.
+3. Calculate the \textbf{present value} of an annuity due.
+4. Solve for unknowns in annuity due problems, including:
+   * Periodic payment (\( \text{PMT} \))
+   * Number of periods (\( n \))
+   * Interest rate (\( i \))
+5. Interpret and construct \textbf{timelines} to visualize cash flows of annuities due.
+6. Apply time value of money principles in analyzing annuities due in financial planning and decision-making.
+
+###  Review Problems From Last Lecture: {-}
+
+1. You are planning to take out a loan and will make monthly payments of \$600 for 6 years. The interest rate is 7\% compounded quarterly. What is the present value of the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/LudOJKtJSTU)</div>
+2. You invest \$250 every 2 months into an account that earns 6.5\% interest compounded monthly. What will be the value of the investment after 8 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/rjgtfe-PjDs)</div>
+3. You want to accumulate \$15,000 over 5 years by making monthly payments into an account earning 4.8\% compounded semi-annually. What should each monthly payment be?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/__aieU0ELCs)</div>
+4. You invest \$150 every quarter and end up with \$5,000 after 7 years. If interest is compounded monthly, what is the nominal annual interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/as5FICA8nLQ)</div>
+5. A financial institution offers a nominal annual interest rate of 6\% compounded quarterly.
+   * What is the **effective annual rate (EAR)**?
+   * What is the **equivalent nominal annual rate** if interest were instead compounded monthly?
+   * Compare both options: 6\% compounded quarterly vs. the equivalent nominal rate you found in part (b) compounded monthly. Which compounding method yields more interest over a year?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/cNuDhyZxDnQ)</div>
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 7.1 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Annuities Due](https://youtu.be/xalP41MWGSg)**  
+An **annuity due** is a series of equal payments made at the beginning of each period, rather than at the end (as in an ordinary annuity). This type of annuity is common in situations like rent, lease payments, and insurance premiums. <br><br>
+2. **Video: [PV and FV of Annuities Due](https://youtu.be/knuOJ03sshA)**  
+Future Value of an Annuity Due
+\[
+FV_{\text{due}} = \text{PMT} \cdot \left[\frac{(1 + i)^n - 1}{i} \right] \cdot (1 + i)
+\]
+This is equivalent to:
+\[
+FV_{\text{due}} = FV_{\text{ordinary}} \cdot (1 + i)
+\]<br><br>
+3. Present Value of an Annuity Due
+\[
+PV_{\text{due}} = \text{PMT} \cdot \left[\frac{1 - (1 + i)^{-n}}{i} \right] \cdot (1 + i)
+\]
+Again:
+\[
+PV_{\text{due}} = PV_{\text{ordinary}} \cdot (1 + i)
+\]  <br><br>
+4. Solving Annuity Due Problems
+   * Identify whether payments are made at the beginning (annuity due) or end (ordinary annuity) of each period.
+   * Determine:
+      * \( i \): periodic interest rate
+      * \( n \): number of payment periods
+      * \( \text{PMT} \): periodic payment
+   * Use the correct formula for present or future value.
+   * Multiply by \( (1 + i) \) if using ordinary annuity formulas to adjust for annuity due.  <br><br>
+	 
+	 
+
+
+###  Lecture Problems: {-}
+
+1. You deposit \$150 at the beginning of every month into a savings account that earns 5\% interest compounded monthly. What will be the future value of the annuity after 10 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/2ZHW43unmi8)</div>
+2. You plan to prepay a 4-year lease with annual payments of \$3,000, made at the beginning of each year. If the interest rate is 6\% compounded annually, what is the present value of the lease?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/oiKuXhGN_RY)</div>
+3. An insurance policy requires you to pay \$1,200 at the beginning of each quarter for 5 years. If the insurer uses an interest rate of 4\% compounded quarterly, what is the present value of your policy payments?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/JplE47c91xU)</div>
+4. You are saving for a car by depositing \$500 at the beginning of each quarter into an account earning 6\% interest compounded quarterly. What will be the value of your account after 6 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/RydqSKjDjBg)</div>
+
+
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Annuities Due](https://theelementsmath.github.io/M114/more-on-annuities.html\#annuities-due)
+
+
+
+
+
+
+##  Lecture 17:  Special Case Annuities {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define a deferred annuity and construct timelines to represent deferred annuity cash flows.
+2. Solve problems involving both ordinary and annuity due types of deferred annuities.
+3. Define a perpetuity and identify real-world examples (e.g., preferred stocks, endowments).
+4. Solve problems involving regular perpetuities and deferred perpetuities.
+5. Define a constant growth annuity and explain its relevance in financial valuation (e.g., growing retirement withdrawals or dividend models).
+
+###  Review Problems From Last Lecture: {-}
+
+1. You contribute \$250 at the beginning of each month into a retirement savings account that earns 7.2\% interest compounded monthly. How much will be in the account after 15 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/e7x69WQbUy8)</div>
+2. You agree to pay rent of \$1,500 at the beginning of each month for 3 years. If the landlord uses a discount rate of 5\% compounded monthly, what is the present value of the lease agreement?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/VqldJMs4-Oo)</div>
+3. You are saving for a down payment by depositing \$400 at the beginning of every 2 months into an account that earns 5.4\% compounded monthly. What will the account be worth in 6 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/DHjYuRYo8JI)</div>
+4. A company offers an employee bonus plan that pays \$5,000 at the beginning of each year for 8 years. If the discount rate is 6.5\% compounded annually, what is the present value of the bonus payments?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/pipYbAzRvG4)</div>
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 7.2, 7.3, 7.4 and 7.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Deferred Annuities](https://youtu.be/S5UgF1tzz6s)**  
+A **deferred annuity** is an annuity where payments begin after a delay or deferment period.  
+Key Points:
+   * Payments start after a set number of periods.
+   * Present value is calculated in two steps:
+      * Find the present value at the time just before the first payment.
+      * Discount that value back to today.
+   * Applies to both ordinary annuities and annuities due.  <br><br>
+2. **Video: [Perpetuities](https://youtu.be/CNq74zq-Jns)**  
+A **perpetuity** is a series of equal payments made at regular intervals that continue indefinitely.  
+Formula:
+\[
+PV = \frac{\text{PMT}}{i}, \quad \text{where } i > 0
+\]  
+Key Points:
+   * No maturity — payments go on forever.
+   * Present value is finite as long as \( i > 0 \).  <br><br>
+3. **Video: [Constant Growth Annuities](https://youtu.be/ooUss4RfLHI)**  
+A **constant growth annuity** is an annuity where the payments grow at a constant rate \( g \) per period.  
+Formula:
+\[
+PV = \text{PMT}_1 \cdot \frac{1 - (1+g)^n(1+i)^{-n}}{i-g}
+\]
+\[
+FV = \text{PMT}_1 \cdot \frac{(1+i)^n- (1+g)^n}{i-g}
+\]
+where:
+   * \( \text{PMT}_1 \) is the first payment.
+   * \( i \) is the interest rate per period.
+   * \( g \) is the growth rate of the payments.
+   * \( n \): the number of periods.  
+Key Points:
+   * Payments increase over time: \( \text{PMT}_1, \text{PMT}_1(1+g), \text{PMT}_1(1+g)^2, \dots \)
+   * This formula assumes that payments are made at the \textbf{end of each period}, and that \( i > g \). <br><br>
+
+
+
+
+
+###  Lecture Problems: {-}
+
+1. A preferred stock pays a fixed dividend of \$4.50 per share every year, indefinitely. If investors require a 5.5\% annual return, what is the fair price of the stock?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/DcH6X7vmuJI)</div>
+2. You plan to purchase an investment that will pay \$1,200 at the end of each year for 10 years. However, the first payment will not be received until 5 years from now. If the interest rate is 6\% compounded annually, what is the present value of this deferred annuity today?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/KKtTShNruXk)</div>
+3. You plan to withdraw an income that starts at \$5,000 at the end of the first year and grows at 3\% annually for 20 years. If the interest rate is 7\% compounded annually, what is the present value of these withdrawals at the start of year 1?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/MgdL-JOsw38)</div>
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Deferred Annuities](https://theelementsmath.github.io/M114/more-on-annuities.html\#deferred-annuities)
+
+*  [Perpetuities](https://theelementsmath.github.io/M114/more-on-annuities.html\#perpetuities)
+
+*  [Constant Growth Annuities](https://theelementsmath.github.io/M114/more-on-annuities.html\#constant-growth-annuities)
+
+*  [Special Case Annuities](https://theelementsmath.github.io/M114/more-on-annuities.html\#special-case-annuities)
+
+
+

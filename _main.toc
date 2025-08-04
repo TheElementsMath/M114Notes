@@ -1,0 +1,122 @@
+\contentsline {chapter}{}{5}{chapter*.2}%
+\contentsline {part}{I\hspace {1em}Essentials}{7}{part.1}%
+\contentsline {chapter}{\numberline {1}Preliminaries}{9}{chapter.1}%
+\contentsline {section}{Lecture 1: The Basics}{9}{section*.3}%
+\contentsline {subsection}{Learning Outcomes:}{9}{section*.4}%
+\contentsline {subsection}{Lecture Notes:}{9}{section*.5}%
+\contentsline {subsection}{Lecture Problems:}{10}{section*.6}%
+\contentsline {subsection}{Additional Problems:}{11}{section*.7}%
+\contentsline {section}{Lecture 2: Ratios, Rates, Proportions and Percentages}{11}{section*.8}%
+\contentsline {subsection}{Learning Outcomes:}{11}{section*.9}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{11}{section*.10}%
+\contentsline {subsection}{Lecture Notes:}{12}{section*.11}%
+\contentsline {subsection}{Lecture Problems:}{13}{section*.12}%
+\contentsline {subsection}{Additional Problems:}{13}{section*.13}%
+\contentsline {part}{II\hspace {1em}Economics}{15}{part.2}%
+\contentsline {chapter}{\numberline {2}Introduction to Microeconomics}{17}{chapter.2}%
+\contentsline {section}{Lecture 3: Supply and Demand Economics}{17}{section*.14}%
+\contentsline {subsection}{Learning Outcomes:}{17}{section*.15}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{17}{section*.16}%
+\contentsline {subsection}{Lecture Notes:}{18}{section*.17}%
+\contentsline {subsection}{Lecture Problems:}{20}{section*.18}%
+\contentsline {subsection}{Additional Problems:}{21}{section*.19}%
+\contentsline {part}{III\hspace {1em}Economics}{23}{part.3}%
+\contentsline {chapter}{\numberline {3}Business Economics}{25}{chapter.3}%
+\contentsline {section}{Lecture 4: Merchandizing}{25}{section*.20}%
+\contentsline {subsection}{Learning Outcomes:}{25}{section*.21}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{25}{section*.22}%
+\contentsline {subsection}{Lecture Notes:}{26}{section*.23}%
+\contentsline {subsection}{Lecture Problems:}{27}{section*.24}%
+\contentsline {subsection}{Additional Problems:}{28}{section*.25}%
+\contentsline {section}{Lecture 5: Cost, Volume, Profit Analysis}{28}{section*.26}%
+\contentsline {subsection}{Learning Outcomes:}{28}{section*.27}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{29}{section*.28}%
+\contentsline {subsection}{Lecture Notes:}{29}{section*.29}%
+\contentsline {subsection}{Lecture Problems:}{30}{section*.30}%
+\contentsline {subsection}{Additional Problems:}{31}{section*.31}%
+\contentsline {section}{Lecture 6: Monopoly}{31}{section*.32}%
+\contentsline {subsection}{Learning Outcomes:}{31}{section*.33}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{32}{section*.34}%
+\contentsline {subsection}{Lecture Notes:}{32}{section*.35}%
+\contentsline {subsection}{Lecture Problems:}{33}{section*.36}%
+\contentsline {subsection}{Additional Problems:}{34}{section*.37}%
+\contentsline {part}{IV\hspace {1em}Simple and Compound Interest}{35}{part.4}%
+\contentsline {chapter}{\numberline {4}Simple Interest}{37}{chapter.4}%
+\contentsline {section}{Lecture 7: Simple Interest}{37}{section*.38}%
+\contentsline {subsection}{Learning Outcomes:}{37}{section*.39}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{37}{section*.40}%
+\contentsline {subsection}{Lecture Notes:}{38}{section*.41}%
+\contentsline {subsection}{Lecture Problems:}{38}{section*.42}%
+\contentsline {subsection}{Additional Problems:}{39}{section*.43}%
+\contentsline {section}{Lecture 8: Present and Future Value}{39}{section*.44}%
+\contentsline {subsection}{Learning Outcomes:}{39}{section*.45}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{39}{section*.46}%
+\contentsline {subsection}{Lecture Notes:}{40}{section*.47}%
+\contentsline {subsection}{Lecture Problems:}{40}{section*.48}%
+\contentsline {subsection}{Additional Problems:}{41}{section*.49}%
+\contentsline {section}{Lecture 9: Equivalent Payments}{41}{section*.50}%
+\contentsline {subsection}{Learning Outcomes:}{41}{section*.51}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{41}{section*.52}%
+\contentsline {subsection}{Lecture Notes:}{42}{section*.53}%
+\contentsline {subsection}{Lecture Problems:}{42}{section*.54}%
+\contentsline {subsection}{Additional Problems:}{43}{section*.55}%
+\contentsline {chapter}{\numberline {5}Compound Interest}{45}{chapter.5}%
+\contentsline {section}{Lecture 10: Present and Future Value}{45}{section*.56}%
+\contentsline {subsection}{Learning Outcomes:}{45}{section*.57}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{45}{section*.58}%
+\contentsline {subsection}{Lecture Notes:}{46}{section*.59}%
+\contentsline {subsection}{Lecture Problems:}{47}{section*.60}%
+\contentsline {subsection}{Additional Problems:}{47}{section*.61}%
+\contentsline {section}{Lecture 11: Compound Interest - Rate and Term}{47}{section*.62}%
+\contentsline {subsection}{Learning Outcomes:}{47}{section*.63}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{48}{section*.64}%
+\contentsline {subsection}{Lecture Notes:}{48}{section*.65}%
+\contentsline {subsection}{Lecture Problems:}{49}{section*.66}%
+\contentsline {subsection}{Additional Problems:}{49}{section*.67}%
+\contentsline {section}{Lecture 12: Payment Streams and Equivalent Payments}{49}{section*.68}%
+\contentsline {subsection}{Learning Outcomes:}{49}{section*.69}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{50}{section*.70}%
+\contentsline {subsection}{Lecture Notes:}{50}{section*.71}%
+\contentsline {subsection}{Lecture Problems:}{51}{section*.72}%
+\contentsline {subsection}{Additional Problems:}{52}{section*.73}%
+\contentsline {part}{V\hspace {1em}Annuities}{53}{part.5}%
+\contentsline {chapter}{\numberline {6}Annuity Basics}{55}{chapter.6}%
+\contentsline {section}{Lecture 13: Annuity Basics}{55}{section*.74}%
+\contentsline {subsection}{Learning Outcomes:}{55}{section*.75}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{55}{section*.76}%
+\contentsline {subsection}{Lecture Notes:}{56}{section*.77}%
+\contentsline {subsection}{Lecture Problems:}{56}{section*.78}%
+\contentsline {subsection}{Additional Problems:}{57}{section*.79}%
+\contentsline {section}{Lecture 14: Annuities II}{57}{section*.80}%
+\contentsline {subsection}{Learning Outcomes:}{57}{section*.81}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{57}{section*.82}%
+\contentsline {subsection}{Lecture Notes:}{58}{section*.83}%
+\contentsline {subsection}{Lecture Problems:}{58}{section*.84}%
+\contentsline {subsection}{Additional Problems:}{59}{section*.85}%
+\contentsline {section}{Lecture 15: Ordinary General Annuities}{59}{section*.86}%
+\contentsline {subsection}{Learning Outcomes:}{59}{section*.87}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{59}{section*.88}%
+\contentsline {subsection}{Lecture Notes:}{60}{section*.89}%
+\contentsline {subsection}{Lecture Problems:}{61}{section*.90}%
+\contentsline {subsection}{Additional Problems:}{61}{section*.91}%
+\contentsline {chapter}{\numberline {7}More on Annuities}{63}{chapter.7}%
+\contentsline {section}{Lecture 16: Annuities Due}{63}{section*.92}%
+\contentsline {subsection}{Learning Outcomes:}{63}{section*.93}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{63}{section*.94}%
+\contentsline {subsection}{Lecture Notes:}{64}{section*.95}%
+\contentsline {subsection}{Lecture Problems:}{65}{section*.96}%
+\contentsline {subsection}{Additional Problems:}{65}{section*.97}%
+\contentsline {section}{Lecture 17: Special Case Annuities}{65}{section*.98}%
+\contentsline {subsection}{Learning Outcomes:}{65}{section*.99}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{66}{section*.100}%
+\contentsline {subsection}{Lecture Notes:}{66}{section*.101}%
+\contentsline {subsection}{Lecture Problems:}{67}{section*.102}%
+\contentsline {subsection}{Additional Problems:}{67}{section*.103}%
+\contentsline {part}{VI\hspace {1em}Investments}{69}{part.6}%
+\contentsline {chapter}{\numberline {8}Mortgages}{71}{chapter.8}%
+\contentsline {section}{Lecture 18: Mortgages}{71}{section*.104}%
+\contentsline {subsection}{Learning Outcomes:}{71}{section*.105}%
+\contentsline {subsection}{Review Problems From Last Lecture:}{71}{section*.106}%
+\contentsline {subsection}{Lecture Notes:}{72}{section*.107}%
+\contentsline {subsection}{Lecture Problems:}{73}{section*.108}%
+\contentsline {subsection}{Additional Problems:}{73}{section*.109}%

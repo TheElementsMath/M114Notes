@@ -1,0 +1,11 @@
+bookdown::gitbook:
+  css: style.css
+  split_by: chapter
+  toc_depth: 3
+
+bookdown::pdf_book:
+  latex_engine: xelatex
+  includes:
+    in_header: preamble.tex
+  toc_depth: 2
+

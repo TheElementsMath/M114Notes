@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+<head>
+
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>Chapter 8 More on Annuities | Business Mathematics Course Notes</title>
+  <meta name="description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="generator" content="bookdown 0.43 and GitBook 2.6.7" />
+
+  <meta property="og:title" content="Chapter 8 More on Annuities | Business Mathematics Course Notes" />
+  <meta property="og:type" content="book" />
+  <meta property="og:image" content="https://github.com/TheElementsMath/M114Notes/C:\300108443- Okanagan CollegeOC114CourseNotes" />
+  <meta property="og:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="github-repo" content="rstudio/bookdown-demo" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Chapter 8 More on Annuities | Business Mathematics Course Notes" />
+  
+  <meta name="twitter:description" content="<p>This is a minimal example of using the bookdown package to write a book.
+The HTML output format for this example is bookdown::gitbook,
+set in the _output.yml file.</p>" />
+  <meta name="twitter:image" content="https://github.com/TheElementsMath/M114Notes/C:\300108443- Okanagan CollegeOC114CourseNotes" />
+
+<meta name="author" content="Joe Hobart" />
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  
+  
+<link rel="prev" href="mortgages.html"/>
+
+<script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-table.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-clipboard.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+<link href="libs/anchor-sections-1.1.0/anchor-sections.css" rel="stylesheet" />
+<link href="libs/anchor-sections-1.1.0/anchor-sections-hash.css" rel="stylesheet" />
+<script src="libs/anchor-sections-1.1.0/anchor-sections.js"></script>
+
+
+
+<style type="text/css">
+  
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li><a href="./">Business Mathematics Lecture Notes</a></li>
+
+<li class="divider"></li>
+<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Preamble</a></li>
+<li class="part"><span><b>I Essentials</b></span></li>
+<li class="chapter" data-level="1" data-path="preliminaries.html"><a href="preliminaries.html"><i class="fa fa-check"></i><b>1</b> Preliminaries</a>
+<ul>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-1-the-basics"><i class="fa fa-check"></i>Lecture 1: The Basics</a>
+<ul>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#learning-outcomes"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-notes"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-problems"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#additional-problems"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-2-ratios-rates-proportions-and-percentages"><i class="fa fa-check"></i>Lecture 2: Ratios, Rates, Proportions and Percentages</a>
+<ul>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#learning-outcomes-1"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#review-problems-from-last-lecture"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-notes-1"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#lecture-problems-1"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="preliminaries.html"><a href="preliminaries.html#additional-problems-1"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>II Economics</b></span></li>
+<li class="chapter" data-level="2" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html"><i class="fa fa-check"></i><b>2</b> Introduction to Microeconomics</a>
+<ul>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#lecture-3-supply-and-demand-economics"><i class="fa fa-check"></i>Lecture 3: Supply and Demand Economics</a>
+<ul>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#learning-outcomes-2"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#review-problems-from-last-lecture-1"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#lecture-notes-2"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#lecture-problems-2"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="introduction-to-microeconomics.html"><a href="introduction-to-microeconomics.html#additional-problems-2"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>III Economics</b></span></li>
+<li class="chapter" data-level="3" data-path="business-economics.html"><a href="business-economics.html"><i class="fa fa-check"></i><b>3</b> Business Economics</a>
+<ul>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-4-merchandizing"><i class="fa fa-check"></i>Lecture 4: Merchandizing</a>
+<ul>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#learning-outcomes-3"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#review-problems-from-last-lecture-2"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-notes-3"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-problems-3"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#additional-problems-3"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-5-cost-volume-profit-analysis"><i class="fa fa-check"></i>Lecture 5: Cost, Volume, Profit Analysis</a>
+<ul>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#learning-outcomes-4"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#review-problems-from-last-lecture-3"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-notes-4"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-problems-4"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#additional-problems-4"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-6-monopoly"><i class="fa fa-check"></i>Lecture 6: Monopoly</a>
+<ul>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#learning-outcomes-5"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#review-problems-from-last-lecture-4"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-notes-5"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#lecture-problems-5"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="business-economics.html"><a href="business-economics.html#additional-problems-5"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>IV Simple and Compound Interest</b></span></li>
+<li class="chapter" data-level="4" data-path="simple-interest.html"><a href="simple-interest.html"><i class="fa fa-check"></i><b>4</b> Simple Interest</a>
+<ul>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-7-simple-interest"><i class="fa fa-check"></i>Lecture 7: Simple Interest</a>
+<ul>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#learning-outcomes-6"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#review-problems-from-last-lecture-5"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-notes-6"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-problems-6"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#additional-problems-6"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-8-present-and-future-value"><i class="fa fa-check"></i>Lecture 8: Present and Future Value</a>
+<ul>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#learning-outcomes-7"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#review-problems-from-last-lecture-6"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-notes-7"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-problems-7"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#additional-problems-7"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-9-equivalent-payments"><i class="fa fa-check"></i>Lecture 9: Equivalent Payments</a>
+<ul>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#learning-outcomes-8"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#review-problems-from-last-lecture-7"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-notes-8"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#lecture-problems-8"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="simple-interest.html"><a href="simple-interest.html#additional-problems-8"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="5" data-path="compound-interest.html"><a href="compound-interest.html"><i class="fa fa-check"></i><b>5</b> Compound Interest</a>
+<ul>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-10-present-and-future-value"><i class="fa fa-check"></i>Lecture 10: Present and Future Value</a>
+<ul>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#learning-outcomes-9"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#review-problems-from-last-lecture-8"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-notes-9"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-problems-9"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#additional-problems-9"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-11-compound-interest---rate-and-term"><i class="fa fa-check"></i>Lecture 11: Compound Interest - Rate and Term</a>
+<ul>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#learning-outcomes-10"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#review-problems-from-last-lecture-9"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-notes-10"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-problems-10"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#additional-problems-10"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-12-payment-streams-and-equivalent-payments"><i class="fa fa-check"></i>Lecture 12: Payment Streams and Equivalent Payments</a>
+<ul>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#learning-outcomes-11"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#review-problems-from-last-lecture-10"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-notes-11"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#lecture-problems-11"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="compound-interest.html"><a href="compound-interest.html#additional-problems-11"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>V Annuities</b></span></li>
+<li class="chapter" data-level="6" data-path="annuity-basics.html"><a href="annuity-basics.html"><i class="fa fa-check"></i><b>6</b> Annuity Basics</a>
+<ul>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-13-annuity-basics"><i class="fa fa-check"></i>Lecture 13: Annuity Basics</a>
+<ul>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#learning-outcomes-12"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#review-problems-from-last-lecture-11"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-notes-12"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-problems-12"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#additional-problems-12"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-14-annuities-ii"><i class="fa fa-check"></i>Lecture 14: Annuities II</a>
+<ul>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#learning-outcomes-13"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#review-problems-from-last-lecture-12"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-notes-13"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-problems-13"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#additional-problems-13"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-15-ordinary-general-annuities"><i class="fa fa-check"></i>Lecture 15: Ordinary General Annuities</a>
+<ul>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#learning-outcomes-14"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#review-problems-from-last-lecture-13"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-notes-14"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#lecture-problems-14"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="annuity-basics.html"><a href="annuity-basics.html#additional-problems-14"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="part"><span><b>VI Investments</b></span></li>
+<li class="chapter" data-level="7" data-path="mortgages.html"><a href="mortgages.html"><i class="fa fa-check"></i><b>7</b> Mortgages</a>
+<ul>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#lecture-18-mortgages"><i class="fa fa-check"></i>Lecture 18: Mortgages</a>
+<ul>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#learning-outcomes-15"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#review-problems-from-last-lecture-14"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#lecture-notes-15"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#lecture-problems-15"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="mortgages.html"><a href="mortgages.html#additional-problems-15"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="8" data-path="more-on-annuities.html"><a href="more-on-annuities.html"><i class="fa fa-check"></i><b>8</b> More on Annuities</a>
+<ul>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-16-annuities-due"><i class="fa fa-check"></i>Lecture 16: Annuities Due</a>
+<ul>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#learning-outcomes-16"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#review-problems-from-last-lecture-15"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-notes-16"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-problems-16"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#additional-problems-16"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-17-special-case-annuities"><i class="fa fa-check"></i>Lecture 17: Special Case Annuities</a>
+<ul>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#learning-outcomes-17"><i class="fa fa-check"></i>Learning Outcomes:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#review-problems-from-last-lecture-16"><i class="fa fa-check"></i>Review Problems From Last Lecture:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-notes-17"><i class="fa fa-check"></i>Lecture Notes:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#lecture-problems-17"><i class="fa fa-check"></i>Lecture Problems:</a></li>
+<li class="chapter" data-level="" data-path="more-on-annuities.html"><a href="more-on-annuities.html#additional-problems-17"><i class="fa fa-check"></i>Additional Problems:</a></li>
+</ul></li>
+</ul></li>
+<li class="divider"></li>
+<li><a href="https://github.com/TheElementsMath/M114Notes" target="blank">Published with bookdown</a></li>
+
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Business Mathematics Course Notes</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="more-on-annuities" class="section level1 hasAnchor" number="8">
+<h1><span class="header-section-number">Chapter 8</span> More on Annuities<a href="more-on-annuities.html#more-on-annuities" class="anchor-section" aria-label="Anchor link to header"></a></h1>
+<div id="lecture-16-annuities-due" class="section level2 unnumbered hasAnchor">
+<h2>Lecture 16: Annuities Due<a href="more-on-annuities.html#lecture-16-annuities-due" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="learning-outcomes-16" class="section level3 unnumbered hasAnchor">
+<h3>Learning Outcomes:<a href="more-on-annuities.html#learning-outcomes-16" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>Define an and distinguish it from an .</li>
+<li>Calculate the of an annuity due using the appropriate formula.</li>
+<li>Calculate the of an annuity due.</li>
+<li>Solve for unknowns in annuity due problems, including:
+<ul>
+<li>Periodic payment (<span class="math inline">\(\text{PMT}\)</span>)</li>
+<li>Number of periods (<span class="math inline">\(n\)</span>)</li>
+<li>Interest rate (<span class="math inline">\(i\)</span>)</li>
+</ul></li>
+<li>Interpret and construct to visualize cash flows of annuities due.</li>
+<li>Apply time value of money principles in analyzing annuities due in financial planning and decision-making.</li>
+</ol>
+</div>
+<div id="review-problems-from-last-lecture-15" class="section level3 unnumbered hasAnchor">
+<h3>Review Problems From Last Lecture:<a href="more-on-annuities.html#review-problems-from-last-lecture-15" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>You are planning to take out a loan and will make monthly payments of $600 for 6 years. The interest rate is 7% compounded quarterly. What is the present value of the loan?
+<div style="text-align: right;">
+<a href="https://youtu.be/LudOJKtJSTU">Click here for the solution</a>
+</div></li>
+<li>You invest $250 every 2 months into an account that earns 6.5% interest compounded monthly. What will be the value of the investment after 8 years?
+<div style="text-align: right;">
+<a href="https://youtu.be/rjgtfe-PjDs">Click here for the solution</a>
+</div></li>
+<li>You want to accumulate $15,000 over 5 years by making monthly payments into an account earning 4.8% compounded semi-annually. What should each monthly payment be?
+<div style="text-align: right;">
+<a href="https://youtu.be/__aieU0ELCs">Click here for the solution</a>
+</div></li>
+<li>You invest $150 every quarter and end up with $5,000 after 7 years. If interest is compounded monthly, what is the nominal annual interest rate?
+<div style="text-align: right;">
+<a href="https://youtu.be/as5FICA8nLQ">Click here for the solution</a>
+</div></li>
+<li>A financial institution offers a nominal annual interest rate of 6% compounded quarterly.
+<ul>
+<li>What is the <strong>effective annual rate (EAR)</strong>?</li>
+<li>What is the <strong>equivalent nominal annual rate</strong> if interest were instead compounded monthly?</li>
+<li>Compare both options: 6% compounded quarterly vs. the equivalent nominal rate you found in part (b) compounded monthly. Which compounding method yields more interest over a year?
+<div style="text-align: right;">
+<a href="https://youtu.be/cNuDhyZxDnQ">Click here for the solution</a>
+</div></li>
+</ul></li>
+</ol>
+</div>
+<div id="lecture-notes-16" class="section level3 unnumbered hasAnchor">
+<h3>Lecture Notes:<a href="more-on-annuities.html#lecture-notes-16" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Lecture material for this class come from Sections 7.1 and can be found below. This material is considered review material and so it is not covered in depth.</p>
+<ol style="list-style-type: decimal">
+<li><strong>Video: <a href="https://youtu.be/xalP41MWGSg">Annuities Due</a></strong><br />
+An <strong>annuity due</strong> is a series of equal payments made at the beginning of each period, rather than at the end (as in an ordinary annuity). This type of annuity is common in situations like rent, lease payments, and insurance premiums. <br><br></li>
+<li><strong>Video: <a href="https://youtu.be/knuOJ03sshA">PV and FV of Annuities Due</a></strong><br />
+Future Value of an Annuity Due
+<span class="math display">\[
+FV_{\text{due}} = \text{PMT} \cdot \left[\frac{(1 + i)^n - 1}{i} \right] \cdot (1 + i)
+\]</span>
+This is equivalent to:
+<span class="math display">\[
+FV_{\text{due}} = FV_{\text{ordinary}} \cdot (1 + i)
+\]</span><br><br></li>
+<li>Present Value of an Annuity Due
+<span class="math display">\[
+PV_{\text{due}} = \text{PMT} \cdot \left[\frac{1 - (1 + i)^{-n}}{i} \right] \cdot (1 + i)
+\]</span>
+Again:
+<span class="math display">\[
+PV_{\text{due}} = PV_{\text{ordinary}} \cdot (1 + i)
+\]</span> <br><br></li>
+<li>Solving Annuity Due Problems
+<ul>
+<li>Identify whether payments are made at the beginning (annuity due) or end (ordinary annuity) of each period.</li>
+<li>Determine:
+<ul>
+<li><span class="math inline">\(i\)</span>: periodic interest rate</li>
+<li><span class="math inline">\(n\)</span>: number of payment periods</li>
+<li><span class="math inline">\(\text{PMT}\)</span>: periodic payment</li>
+</ul></li>
+<li>Use the correct formula for present or future value.</li>
+<li>Multiply by <span class="math inline">\((1 + i)\)</span> if using ordinary annuity formulas to adjust for annuity due. <br><br></li>
+</ul></li>
+</ol>
+</div>
+<div id="lecture-problems-16" class="section level3 unnumbered hasAnchor">
+<h3>Lecture Problems:<a href="more-on-annuities.html#lecture-problems-16" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>You deposit $150 at the beginning of every month into a savings account that earns 5% interest compounded monthly. What will be the future value of the annuity after 10 years?
+<div style="text-align: right;">
+<a href="https://youtu.be/2ZHW43unmi8">Click here for the solution</a>
+</div></li>
+<li>You plan to prepay a 4-year lease with annual payments of $3,000, made at the beginning of each year. If the interest rate is 6% compounded annually, what is the present value of the lease?
+<div style="text-align: right;">
+<a href="https://youtu.be/oiKuXhGN_RY">Click here for the solution</a>
+</div></li>
+<li>An insurance policy requires you to pay $1,200 at the beginning of each quarter for 5 years. If the insurer uses an interest rate of 4% compounded quarterly, what is the present value of your policy payments?
+<div style="text-align: right;">
+<a href="https://youtu.be/JplE47c91xU">Click here for the solution</a>
+</div></li>
+<li>You are saving for a car by depositing $500 at the beginning of each quarter into an account earning 6% interest compounded quarterly. What will be the value of your account after 6 years?
+<div style="text-align: right;">
+<a href="https://youtu.be/RydqSKjDjBg">Click here for the solution</a>
+</div></li>
+</ol>
+</div>
+<div id="additional-problems-16" class="section level3 unnumbered hasAnchor">
+<h3>Additional Problems:<a href="more-on-annuities.html#additional-problems-16" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Additional problems that are typically done in class (with video solutions) can be found here:</p>
+<ul>
+<li><a href="https://theelementsmath.github.io/M114/more-on-annuities.html#annuities-due">Annuities Due</a></li>
+</ul>
+</div>
+</div>
+<div id="lecture-17-special-case-annuities" class="section level2 unnumbered hasAnchor">
+<h2>Lecture 17: Special Case Annuities<a href="more-on-annuities.html#lecture-17-special-case-annuities" class="anchor-section" aria-label="Anchor link to header"></a></h2>
+<div id="learning-outcomes-17" class="section level3 unnumbered hasAnchor">
+<h3>Learning Outcomes:<a href="more-on-annuities.html#learning-outcomes-17" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>Define a deferred annuity and construct timelines to represent deferred annuity cash flows.</li>
+<li>Solve problems involving both ordinary and annuity due types of deferred annuities.</li>
+<li>Define a perpetuity and identify real-world examples (e.g., preferred stocks, endowments).</li>
+<li>Solve problems involving regular perpetuities and deferred perpetuities.</li>
+<li>Define a constant growth annuity and explain its relevance in financial valuation (e.g., growing retirement withdrawals or dividend models).</li>
+</ol>
+</div>
+<div id="review-problems-from-last-lecture-16" class="section level3 unnumbered hasAnchor">
+<h3>Review Problems From Last Lecture:<a href="more-on-annuities.html#review-problems-from-last-lecture-16" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>You contribute $250 at the beginning of each month into a retirement savings account that earns 7.2% interest compounded monthly. How much will be in the account after 15 years?
+<div style="text-align: right;">
+<a href="https://youtu.be/e7x69WQbUy8">Click here for the solution</a>
+</div></li>
+<li>You agree to pay rent of $1,500 at the beginning of each month for 3 years. If the landlord uses a discount rate of 5% compounded monthly, what is the present value of the lease agreement?
+<div style="text-align: right;">
+<a href="https://youtu.be/VqldJMs4-Oo">Click here for the solution</a>
+</div></li>
+<li>You are saving for a down payment by depositing $400 at the beginning of every 2 months into an account that earns 5.4% compounded monthly. What will the account be worth in 6 years?
+<div style="text-align: right;">
+<a href="https://youtu.be/DHjYuRYo8JI">Click here for the solution</a>
+</div></li>
+<li>A company offers an employee bonus plan that pays $5,000 at the beginning of each year for 8 years. If the discount rate is 6.5% compounded annually, what is the present value of the bonus payments?
+<div style="text-align: right;">
+<a href="https://youtu.be/pipYbAzRvG4">Click here for the solution</a>
+</div></li>
+</ol>
+</div>
+<div id="lecture-notes-17" class="section level3 unnumbered hasAnchor">
+<h3>Lecture Notes:<a href="more-on-annuities.html#lecture-notes-17" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Lecture material for this class come from Sections 7.2, 7.3, 7.4 and 7.5 and can be found below. This material is considered review material and so it is not covered in depth.</p>
+<ol style="list-style-type: decimal">
+<li><strong>Video: <a href="https://youtu.be/S5UgF1tzz6s">Deferred Annuities</a></strong><br />
+A <strong>deferred annuity</strong> is an annuity where payments begin after a delay or deferment period.<br />
+Key Points:
+<ul>
+<li>Payments start after a set number of periods.</li>
+<li>Present value is calculated in two steps:
+<ul>
+<li>Find the present value at the time just before the first payment.</li>
+<li>Discount that value back to today.</li>
+</ul></li>
+<li>Applies to both ordinary annuities and annuities due. <br><br></li>
+</ul></li>
+<li><strong>Video: <a href="https://youtu.be/CNq74zq-Jns">Perpetuities</a></strong><br />
+A <strong>perpetuity</strong> is a series of equal payments made at regular intervals that continue indefinitely.<br />
+Formula:
+<span class="math display">\[
+PV = \frac{\text{PMT}}{i}, \quad \text{where } i &gt; 0
+\]</span><br />
+Key Points:
+<ul>
+<li>No maturity — payments go on forever.</li>
+<li>Present value is finite as long as <span class="math inline">\(i &gt; 0\)</span>. <br><br></li>
+</ul></li>
+<li><strong>Video: <a href="https://youtu.be/ooUss4RfLHI">Constant Growth Annuities</a></strong><br />
+A <strong>constant growth annuity</strong> is an annuity where the payments grow at a constant rate <span class="math inline">\(g\)</span> per period.<br />
+Formula:
+<span class="math display">\[
+PV = \text{PMT}_1 \cdot \frac{1 - (1+g)^n(1+i)^{-n}}{i-g}
+\]</span>
+<span class="math display">\[
+FV = \text{PMT}_1 \cdot \frac{(1+i)^n- (1+g)^n}{i-g}
+\]</span>
+where:
+<ul>
+<li><span class="math inline">\(\text{PMT}_1\)</span> is the first payment.</li>
+<li><span class="math inline">\(i\)</span> is the interest rate per period.</li>
+<li><span class="math inline">\(g\)</span> is the growth rate of the payments.</li>
+<li><span class="math inline">\(n\)</span>: the number of periods.<br />
+Key Points:</li>
+<li>Payments increase over time: <span class="math inline">\(\text{PMT}_1, \text{PMT}_1(1+g), \text{PMT}_1(1+g)^2, \dots\)</span></li>
+<li>This formula assumes that payments are made at the , and that <span class="math inline">\(i &gt; g\)</span>. <br><br></li>
+</ul></li>
+</ol>
+</div>
+<div id="lecture-problems-17" class="section level3 unnumbered hasAnchor">
+<h3>Lecture Problems:<a href="more-on-annuities.html#lecture-problems-17" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<ol style="list-style-type: decimal">
+<li>A preferred stock pays a fixed dividend of $4.50 per share every year, indefinitely. If investors require a 5.5% annual return, what is the fair price of the stock?
+<div style="text-align: right;">
+<a href="https://youtu.be/DcH6X7vmuJI">Click here for the solution</a>
+</div></li>
+<li>You plan to purchase an investment that will pay $1,200 at the end of each year for 10 years. However, the first payment will not be received until 5 years from now. If the interest rate is 6% compounded annually, what is the present value of this deferred annuity today?
+<div style="text-align: right;">
+<a href="https://youtu.be/KKtTShNruXk">Click here for the solution</a>
+</div></li>
+<li>You plan to withdraw an income that starts at $5,000 at the end of the first year and grows at 3% annually for 20 years. If the interest rate is 7% compounded annually, what is the present value of these withdrawals at the start of year 1?
+<div style="text-align: right;">
+<a href="https://youtu.be/MgdL-JOsw38">Click here for the solution</a>
+</div></li>
+</ol>
+</div>
+<div id="additional-problems-17" class="section level3 unnumbered hasAnchor">
+<h3>Additional Problems:<a href="more-on-annuities.html#additional-problems-17" class="anchor-section" aria-label="Anchor link to header"></a></h3>
+<p>Additional problems that are typically done in class (with video solutions) can be found here:</p>
+<ul>
+<li><p><a href="https://theelementsmath.github.io/M114/more-on-annuities.html#deferred-annuities">Deferred Annuities</a></p></li>
+<li><p><a href="https://theelementsmath.github.io/M114/more-on-annuities.html#perpetuities">Perpetuities</a></p></li>
+<li><p><a href="https://theelementsmath.github.io/M114/more-on-annuities.html#constant-growth-annuities">Constant Growth Annuities</a></p></li>
+<li><p><a href="https://theelementsmath.github.io/M114/more-on-annuities.html#special-case-annuities">Special Case Annuities</a></p></li>
+</ul>
+
+</div>
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="mortgages.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/clipboard.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-clipboard.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+  "sharing": {
+    "github": false,
+    "facebook": true,
+    "twitter": true,
+    "linkedin": false,
+    "weibo": false,
+    "instapaper": false,
+    "vk": false,
+    "whatsapp": false,
+    "all": ["facebook", "twitter", "linkedin", "weibo", "instapaper"]
+  },
+  "fontsettings": {
+    "theme": "white",
+    "family": "sans",
+    "size": 2
+  },
+  "edit": {
+    "link": "https://github.com/USERNAME/REPO/edit/BRANCH/MoreOnAnnuities.Rmd",
+    "text": "Edit"
+  },
+  "history": {
+    "link": null,
+    "text": null
+  },
+  "view": {
+    "link": null,
+    "text": null
+  },
+  "download": ["_main.pdf", "_main.epub"],
+  "search": {
+    "engine": "fuse",
+    "options": null
+  },
+  "toc": {
+    "collapse": "subsection"
+  }
+});
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/latest.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+</body>
+
+</html>

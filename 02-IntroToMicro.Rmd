@@ -1,0 +1,124 @@
+#  (PART) Economics {-}
+
+#  Introduction to Microeconomics
+
+
+##  Lecture 3:  Supply and Demand Economics {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Find the equilibrium price and quantity.
+2. Identify situations of shortage and excess.
+3. Solve problems involving shocks to the economy.
+
+###  Review Problems From Last Lecture: {-}
+
+   1.  You purchase a jacket for \$245 after tax.  The original price of the jacket was \$215.  What is the tax rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/YnkjwUr_YFQ)</div>
+   2.  There are 300 textbooks sold for every 357 students.  If enrollment  increases by 15\%, what is the new enrolment  and how many textbooks are needed?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/clGY-9mrAFU)</div>	  	 
+   3.  The OCSU wants to raise \$1.25 million over the next 5 years to fund a student union building.  With current enrolments at 3000 students with an expected increase of 5\% over the previous year, how much should OCSU charge each student in order to raise this money?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Aum_ZyukTHM)</div>	  	 
+   4.  Abby and Max are starting a partnership where Abby will originally invest \$35,000 and Max will invest \$75,000.  Abby wants to even out the ratio, so she adds another \$20,000 to the investment.  If Max wanted to maintain the original ratio, how much would he have to add to the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/vrGvTSZJ8uI)</div>	  	 
+   5.  Lacey bought 25.5 hectares of land for \$63,000.  If she buys another 80 hectares of land at the same price per hectare as her first purchase, how much must she pay for her second purchase?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/PSSyIpvduZs)</div>	  	 
+	  	 
+	  	 
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Section 2.2 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Supply and Demand Economics](ttps://www.bing.com/videos/riverview/relatedvideo?q=youtube+\%2b+assumptions+in+microeconomics&mid=9CED92F92F430E9D1F069CED92F92F430E9D1F06&FORM=VIRE)**  
+There are several assumptions that are typically made in a perfectly competitive microeconomic market.
+   *  **Rational Behavior:** Individuals are rational and aim to maximize their utility or profit.
+	 *  **Profit Maximization:** Firms choose output levels to maximize profit, typically where marginal cost equals marginal revenue.
+    	 * Perfect Information: All agents have full and accurate information for decision-making.
+    	 * Ceteris Paribus: All other factors are held constant when analyzing a change in one variable.
+    	 * Perfect Competition: Many buyers and sellers, identical products, no market power, and free market entry/exit.    
+	 *  **No Externalities:** All costs and benefits are internal to market participants; no spillover effects. <br><br>
+2. **Video: [The Basics of the Supply Curve](https://www.bing.com/videos/riverview/relatedvideo?&q=youtube+\%2b+the+basics+of+the+supply+curve&&mid=0B4E6D4CB20ADD15E9600B4E6D4CB20ADD15E960&&FORM=VRDGAR)**  
+   *  **Upward Sloping:** The supply curve generally slopes upward, indicating that higher prices incentivize producers to supply more.
+	 *  **Movement Along the Curve:** Caused by a change in the price of the good itself. This reflects a change in quantity supplied.
+	 *  **Short Run vs. Long Run:** In the short run, some inputs are fixed; in the long run, all inputs are variable, leading to a potentially more elastic supply.  <br><br>
+3. **Video: [The Basics of the Demand Curve](https://www.youtube.com/watch?v=kUPm2tMCbGE)**  
+   *  **Downward Sloping:** The demand curve typically slopes downward, indicating that as the price of a good decreases, the quantity demanded increases.
+   *  **Movement Along the Curve:** Caused by a change in the price of the good itself. This reflects a change in quantity demanded, not demand.  <br><br>
+4. **Video: [Excesses and Surplusses](https://www.youtube.com/watch?v=7eZcPs9z9OA)**  
+   *  **Shortage (Excess Demand):** Occurs when the quantity demanded exceeds the quantity supplied at a given price.    
+	 *  **Caused by Price Below Equilibrium:** If the market price is set below the equilibrium price, demand increases and supply decreases, creating a shortage.    
+	 *  **Upward Pressure on Price:** In a shortage, consumers compete for limited goods, pushing prices upward toward equilibrium.
+	 *  **Surplus (Excess Supply):** Occurs when the quantity supplied exceeds the quantity demanded at a given price.
+	 *  **Caused by Price Above Equilibrium:** If the market price is set above the equilibrium price, supply increases and demand decreases, creating a surplus.
+	 *  **Downward Pressure on Price:** In a surplus, sellers lower prices to clear excess inventory, moving the market toward equilibrium.
+	 *  **Market Forces Restore Equilibrium:** In a competitive market, shortages and surpluses are typically temporary, as price adjustments lead the market back to equilibrium.  <br><br>
+5. **Video: [Shocks to Equilibrium](https://www.youtube.com/watch?v=6dwSIO_Slhc)**  
+   *  **Shift vs. Movement:** A shift refers to a change in the entire supply or demand curve, while a movement refers to a change along the curve due to a price change.
+   *  **Demand Curve Shifts:** Occur when a non-price determinant of demand changes. These include:
+       *  Income: Increases in income shift the demand for normal goods right and for inferior goods left.
+       *  Prices of Related Goods:
+          * Substitutes: An increase in the price of one increases demand for the other.
+          * Complements: An increase in the price of one decreases demand for the other.
+       * Tastes and Preferences: Favorable changes shift demand right.
+       * Expectations: Expectations of future price increases can raise current demand.
+       * Number of Buyers: More buyers increase market demand.
+   *  **Supply Curve Shifts:** Occur when a non-price determinant of supply changes. These include:
+       * Input Prices: Lower input costs shift supply right; higher costs shift it left.
+       * Technology: Improvements shift supply right by increasing efficiency.
+       * Expectations: If future prices are expected to rise, current supply may decrease.
+       * Number of Sellers: More sellers shift supply right.
+       * Government Policies: Taxes, subsidies, and regulations can shift supply.
+   *  **Effect on Equilibrium:** 
+       * Demand Increase: Raises equilibrium price and quantity.
+       * Demand Decrease: Lowers equilibrium price and quantity.
+       * Supply Increase: Lowers equilibrium price and raises quantity.
+       * Supply Decrease: Raises equilibrium price and lowers quantity. <br><br>
+
+
+
+
+###  Lecture Problems: {-}
+
+1. Suppose the market demand and supply for a certain good are given by the following equations:
+\begin{align*}
+Q_D &= 100 - 2P \quad (Demand) \\
+Q_S &= 20 + 3P \quad (Supply)
+\end{align*}
+Where:
+   *  \( Q_D \) is the quantity demanded,
+   *  \( Q_S \) is the quantity supplied,
+   *  \( P \) is the price of the good.
+Find the equilibrium price and equilibrium quantity in this market.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Abb7bN8yySg)</div>
+2. Suppose the market demand and supply for a product are given by the following equations:
+\begin{align*}
+Q_D &= 80 - 2P \quad (Demand) \\
+Q_S &= 20 + 3P \quad (Supply)
+\end{align*}
+Assume the current market price is \( P = 10 \).  
+   *  Calculate the quantity demanded and quantity supplied at this price.
+   *  Is the market experiencing a shortage, a surplus, or is it in equilibrium?
+   *  Based on your answer, what is likely to happen to the price in the next period?
+	  	 <div style="text-align: right;">[Click here for the solution]({https://youtu.be/SKh2EvI4YLc})</div>
+3. A foodborne illness outbreak reduces consumer confidence in a particular brand of lettuce.  
+   *  What happens to the \textcolor{red}{demand curve} for that lettuce brand?
+   *  What is the likely market outcome for price and quantity?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ChjAjdemwR4)</div>
+4. Due to a surge in health consciousness, consumers increasingly prefer plant-based protein, leading to an increase in the demand for tofu. At the same time, technological improvements reduce production costs, increasing the supply of tofu.  
+   *  Illustrate the shifts in both the demand and supply curves on a graph.
+   *  What is the expected effect on the \textcolor{blue}{equilibrium quantity}?
+   *  Can we determine the effect on the \textcolor{blue}{equilibrium price}? Why or why not?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/RlajAIMXlyA)</div>
+
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Supply and Demand Economics](https://theelementsmath.github.io/M114/introduction-to-microeconomics.html\#supply-and-demand-economics)
+
+

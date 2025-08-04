@@ -1,0 +1,380 @@
+#  (PART) Economics {-}
+
+#  Business Economics
+
+
+##  Lecture 4:  Merchandizing {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1.  Find net price, list price and trade discount given the other variables.
+2.  Find a single equivalent trade discount.
+3.  Find the markup, selling price, and cost given the other variables.
+4.  Find the markdown, rate of markdown and selling price given the other variables.
+5.  Find the rate of gross profit margin (rate of markup on cost) and the rate of markup (on price).
+
+###  Review Problems From Last Lecture: {-}
+
+   1.  Coke has recently lowered its price in order to grab more of the market share for cola.  What will happen to the equilibrium price and quantity for “other colas” as a result of this action by Coke?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/CEzvcP93ARo)</div>
+   2.  You are a farmer who has recently discovered a way to increase your annual yield of grapes.  You end up selling your idea to all of the other farmers in the area.  What happens to the equilibrium price and quantity for grapes as a result?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/s6vObZi1PuY)</div>	  	 
+   3.  As a wine maker, the price of grapes has recently decreased (see question \#2).  How does this change the equilibrium price and quantity for wine?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ub-yZFjkZO4)</div>
+   4.  You run a fancy restaurant and one of your best selling combinations is your fruit and cheese platter (as it goes very well with wine).  The price of wine has decreased recently, what effect does this have on your fruit and wine platter sales?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/t7KJD_0uoL0)</div>
+   5.  The market for electric bicycles (e-bikes) has recently experienced two major changes:  (a)  Due to rising fuel prices and increased environmental awareness, more consumers are choosing e-bikes as their primary mode of transportation.  (b)  At the same time, a global shortage of lithium (a key component in e-bike batteries) has increased production costs and limited the number of e-bikes manufacturers can produce.  Using a supply and demand diagram, what happens to the equilibrium price and equilibrium quantity of e-bikes?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/rXxkmAUtmQI)</div>
+
+	  	 
+	  	 
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Section 3.2 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Trade Discounts](https://youtu.be/NBrUqBwk5sE)**  
+The net price is the result of reducing the list price by the trade discount.
+   * **List Price (Marked Price):**   The original price of a product before any discounts are applied. This is the price set by the manufacturer or seller.
+   *  **Trade Discount:**   A percentage reduction from the list price offered by the seller to buyers, often based on quantities purchased or buyer relationships. It is not usually recorded in the books.
+   *  **Net Price:**   The actual amount the buyer pays after the trade discount is applied. It is calculated as:
+    \[ \text{Net Price} = \text{List Price} \times (1 - \text{Trade Discount}) \]  <br><br>
+2. **Video: [Markups](https://youtu.be/IXx3Ix2rr8Y)**  
+To ensure the business covers its operating expenses and earns a profit, it adds a markup to the cost.
+   * **Cost:**  The total expenditure incurred in producing or purchasing a product. This includes materials, labor, and other direct expenses.
+   * **Markup:**  The amount added to the cost to determine the selling price. Markup covers both profit and overhead (indirect costs such as rent, utilities, administrative expenses).
+       * **Overhead:** Indirect costs of operating the business, not directly tied to a specific product.
+       * **Profit:** The financial gain remaining after all expenses have been covered.
+	     * Markup is given by: \[ \text{Markup} = \text{Overhead} + \text{Profit}.\]
+   * **Selling Price:** The final price at which the product is sold to customers. It includes both the cost and the markup. It can be expressed as:
+    \begin{align*}
+    \text{Selling Price} &= \text{Cost} + \text{Markup}\\
+    \text{Selling Price} &= \text{Cost} + \text{Overhead} + \text{Profit}.
+    \end{align*} <br><br>
+3. **Video: [Markdowns](https://youtu.be/GfI57rP47R4)**  
+The sale price is a reduced form of the selling price, directly influenced by the markdown rate.  
+   * **Rate of Markdown:** The percentage reduction applied to the selling price to encourage sales, clear inventory, or match competition. It is usually expressed as a percentage:
+    \[
+    \text{Rate of Markdown} = \frac{\text{Selling Price} - \text{Sale Price}}{\text{Selling Price}} \times 100\%
+    \]
+   *  **Sale Price:** The final price paid by the customer after the markdown is applied. It can be calculated as:
+    \[
+    \text{Sale Price} = \text{Selling Price} \times (1 - \text{Markdown Rate})
+    \]  <br><br>
+5. Markup on Cost vs. Gross Profit Margin. 
+   *  **Rate of Markup on Cost:**  This measures the percentage increase from the cost price to the selling price. It tells how much profit is made based on the cost of the item. The formula is:
+    \[
+    \text{Markup Rate (on Cost)} = \frac{\text{Selling Price} - \text{Cost}}{\text{Cost}} \times 100\%
+    \]
+   *  **Gross Profit Margin (Rate of Markup on Selling Price):**  This measures the profit as a percentage of the selling price. It reflects how much of each dollar of sales is profit before deducting operating expenses. The formula is:
+    \[
+    \text{Gross Profit Margin} = \frac{\text{Selling Price} - \text{Cost}}{\text{Selling Price}} \times 100\%
+    \]
+   * Key Difference:
+       * The markup rate is based on the cost, while the gross profit margin is based on the selling price.
+       * For the same product, the markup rate will always be higher than the gross profit margin.
+
+
+
+###  Lecture Problems: {-}
+
+1. A product has a list price of \$1,000. It is offered with two successive trade discounts of 20\% and 10\%. Calculate the net price after applying both trade discounts.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/RYQOeGDUyv0)</div>
+2. If the cost of an item is \$180 and the seller applies a markup rate of 20\% on cost for overhead and a 15\% markup on selling price for profit, what is the selling price of the item?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/8D4lgsp54FI)</div>
+3. An item originally priced at \$200 is marked down by 25\%. What is the sale price after the markdown?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/6aA6vWWjNCM)</div>
+4. A product is sold for \$180 after a 20\% markdown on its original selling price. If the cost of the product is \$120, calculate:
+   *  The original selling price before the markdown,
+   *  The gross profit margin based on the sale price, 
+   *  The rate of markup based on the sale price.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/W7gbRh4Z1YQ)</div>
+5. A wholesaler lists a product at \$500 with trade discounts of 15\% and 5\%. The net price after discounts is then marked up by 30\% to determine the selling price. Later, the retailer applies a 10\% markdown on the selling price to promote sales. If the cost to the retailer is equal to the wholesaler’s selling price, calculate:
+   *  The net price after trade discounts,
+   *  The retailer’s selling price after markup,
+   *  The rate of markup and gross profit margin based on the original selling price,
+   *  The final sale price after markdown,
+   *  The total markdown, and
+   *  The rate of markup and gross profit margin based on the final sale price.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/03v9Et4Do5w)</div>
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Merchandizing](https://theelementsmath.github.io/M114/business-economics.html\#merchandizing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+##  Lecture 5:  Cost, Volume, Profit Analysis {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define and explain the key components of cost-volume-profit (CVP) analysis, including fixed costs, variable costs, contribution margin, and total revenue.
+2. Calculate the contribution margin per unit and contribution margin ratio.
+3. Determine the breakeven level of output in units and in sales revenue using both the equation and contribution margin methods.
+4. Illustrate CVP relationships using breakeven charts and profit-volume graphs.
+5. Distinguish between the breakeven point and the shutdown point.
+6. Determine the shutdown point and explain its relevance in short-run production decisions.
+
+###  Review Problems From Last Lecture: {-}
+
+1. A business purchases pre-hung doors for a list price of \$350 with trade discounts of 30\% and 14\%. The business then marks the doors up 20\% of selling price for overhead and 25\% of cost for profit.
+   *  What is the net price of the doors?
+   *  What is the selling price of the doors?
+   *  What is the ROMU (Rate of Markup on Unit Selling Price)?
+   *  What is the GPM (Gross Profit Margin)?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/CMOw7ktpKgk)</div>
+2. During a sale, the doors are marked down to sell at cost. What is the \textbf{ROMD} (Rate of Markdown on Selling Price)?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/rZGY5cLtock)</div>	  	 
+3. During a different sale, the doors are marked down so that the business breaks even. In this case, what is the \textbf{ROMD}?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/BIgdVkHfEmc)</div>	  	 
+4. A business has a ROMU of 72\%. The business sells power tools for \$392.
+   *  What is the GPM?
+   *  What is the cost?
+   *  What is the markup?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/En9picJQfME)</div>	 	  	 
+	  	 
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 3.3 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Profit Functions](https://youtu.be/c5i7FsLeDk8)**
+   *  **Fixed Costs (FC):** Fixed costs are costs that do not change with output.
+	 *  **Total Variable Costs (TVC):** Total variable costs are costs that change as output changes.
+	 *  **Variable Costs Per Unit (VC):** Variable costs per unit are the amount that costs increase when we increase output by 1 unit.
+	 *  **Total Costs (TC):** The sum of fixed costs and variable costs \[ \text{Total Cost} = FC + TVC\]
+	 *  **Profit Function:**
+	    \begin{align*}
+    \text{Profit} &= \text{Total Revenue} - \text{Total Cost} \\
+	&= (P \cdot Q) - (FC + TVC)\\
+	&= P \cdot Q - VC \cdot Q - FC\\
+	&= (P-VC) \cdot Q - FC
+    \end{align*}
+    where \( P \) = price per unit, \( Q \) = quantity sold, \( FC \) = fixed costs,  \( VC \) = variable cost per unit, and \( TVC \) = total variable costs. <br><br>
+2. **Video: [Contribution Margin/ Rate](https://youtu.be/RMwndvVD894)**  
+      * **Contribution Margin:**  The amount each unit contributes to covering fixed costs and generating profit.
+    \[
+    \text{Contribution Margin} = P - VC
+    \]
+      *  **Contribution Rate (or Ratio):** The proportion of each sales dollar that contributes to covering fixed costs and profit.
+    \[
+    \text{Contribution Rate} = \frac{P - VC}{P} = \frac{\text{Contribution Margin}}{\text{Selling Price}}
+    \]  <br><br>
+3. **Video: [Break-even Point](https://youtu.be/td4Veo3q4r4)**  
+      * The level of output at which total revenue equals total costs (i.e., profit is zero): 
+    \[
+    \text{Break-even Quantity} = \frac{FC}{\text{Contribution Margin per Unit}}
+    \] <br><br>
+4. **Video: [Shutdown Point](https://youtu.be/td4Veo3q4r4)**  
+      * The shutdown point is the output level where the contribution margin is 0.  The level of output where price equals the variable cost per unit (VC). If price falls below VC, the firm should shut down in the short run. 
+    \[
+    \text{Shutdown Point: } CM < 0
+    \]
+    \[
+    \text{Shutdown Point: } P < VC
+    \] <br><br>
+
+
+
+
+
+
+###  Lecture Problems: {-}
+
+   1. A business sells a product for \$80 per unit. The variable cost per unit is \$50 and fixed costs are \$12,000.
+      *  Write the profit function.
+      *  Calculate profit if the business sells 400 units.
+      *  How many units must be sold to earn a profit of \$8,000?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ZkAqt5r75JE)</div>
+   2. A company incurs \$18,000 in fixed costs. It sells a product for \$60 per unit and incurs a variable cost of \$35 per unit.
+      *  What is the contribution margin per unit?
+      *  How many units must be sold to break even?
+      *  If the company sells 1,000 units, what is its total profit?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/IpD_11jJQT8)</div>
+   3. A bakery has fixed costs of \$10,500 per month. Each loaf of bread sells for \$6 and has a variable cost of \$2.50.
+      *  Find the break-even number of loaves
+      *  What is the total revenue at break-even?
+      *  What is the profit if the bakery sells 3,500 loaves?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/P8KLl_D-kNM)</div>
+   4. A product sells for \$75 and has a variable cost of \$45.
+      *  What is the contribution margin?
+      *  What is the contribution rate (as a percentage)?
+      *  How many units are required to cover fixed costs of \$15,000?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ONvoWKJxvLM)</div>
+   5. A company sells gadgets at \$100 each. Variable cost per gadget is \$60. Fixed costs are \$20,000.
+      *  Calculate the break-even quantity.
+      *  If the firm wants to earn a profit of \$10,000, how many units must it sell?
+      *  What is the profit if 400 units are sold?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/1zNOrzrwmXo)</div>
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [CVP Analysis](https://theelementsmath.github.io/M114/business-economics.html\#cvp-analysis)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+##  Lecture 6:  Monopoly {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Differentiate polynomial functions using standard rules of differentiation.
+2. Define the characteristics of a monopoly and how it differs from perfect competition.
+3. Explain how a monopolist determines output and price to maximize profit.
+4. Interpret graphical representations of monopoly pricing, marginal revenue, and marginal cost.
+5. Define and apply the profit function: \(\text{Profit}(Q) = TR(Q) - TC(Q)\).
+6. Use calculus to find the output level that maximizes profit by setting \( \text{Profit}^{\prime}(Q) = 0 \).
+7. Understand and apply the condition \( MR = MC \) for profit maximization.
+
+###  Review Problems From Last Lecture: {-}
+
+   1. The price of a widget is \$35 while the cost per widget is \$20. The fixed costs for the widget factory are \$15,000. Answer the following questions:
+      a. What is the profit function?
+      b. What is the contribution margin?
+      c. What is the break-even volume?
+      d. What volume is needed for a profit of \$10,000 to be made?
+      e. If price changes, at what point would you shut down your business?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/sF3tnZ02KkU)</div>
+   2. The profit function for a particular firm is:
+    \[
+    \text{Profit}(x) = 85x - 10,\!000
+    \]
+    If the price of the good is \$200 per unit, what are the per unit variable costs?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/KBgF9U4clp8)</div>	  	 
+   3. A particular company breaks even after selling 500 units. If the company sells 800 units, they make \$6,000.
+      a. What is the profit function?
+      b. What is the contribution margin?
+      c. If the per unit costs are \$50, what is the price of the good?
+      d. Should these costs change, at what point would the firm consider shutting down?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/gxVwF3i6Kr8)</div>	  	 
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 3.1 and 3.4 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Derivatives of Polynomials](https://www.youtube.com/watch?v=8Sv6CNuNwqo)**  
+The derivative of a polynomial function gives the rate of change or slope at any point.
+   * Power Rule: If \( f(x) = ax^n \), then \( f'(x) = anx^{n-1} \).
+   * Example:  
+        \[
+        \text{If } f(x) = 3x^4 - 2x^2 + 5x - 7, \quad \text{then } f'(x) = 12x^3 - 4x + 5
+        \]
+   * Derivatives help identify turning points, increasing/decreasing intervals, and points of inflection. <br><br>
+
+2. **Video: [Polynomial Optimization](https://www.youtube.com/watch?v=y9M6kmgSnw8)**  
+   * Optimization involves finding the maximum or minimum values of a polynomial function by identifying critical points.
+   * Critical points occur where \( f'(x) = 0 \) or is undefined. <br><br>
+
+3. **Video: [What is a Monopoly?](https://www.youtube.com/watch?v=146O2tCFBWs)**  
+   * A monopoly is a market structure where a single firm is the sole producer of a good or service.
+   * Assumptions of a monopoly:
+      * Single seller with full control over supply.
+      * No close substitutes for the product.
+      * High barriers to entry (legal, technological, or resource-based).
+      * Price maker — the firm can influence the market price by adjusting output.
+   * Monopolies typically face a downward-sloping demand curve. <br><br>
+
+4. **Video: [Profit Maximization](https://www.youtube.com/watch?v=Qk8QdpJovfs)**  
+   * A monopoly maximizes profit where marginal revenue (MR) equals marginal cost (MC) or when the derivative of the profit function is 0.
+   * Since the monopolist faces a downward-sloping demand curve, \( MR < P \).
+   * Profit-maximizing output \( Q^* \) is found where:
+        \[
+        MR(Q^*) = MC(Q^*)
+        \] or where
+        \[
+        \text{Profit}^{\prime} = 0
+        \]	
+   * Price is determined by plugging \( Q^* \) into the demand function.
+   * For linear demand, profit is calculated as:
+        \[
+        \text{Profit} = (P - VC) \times Q^* - FC
+        \] <br><br>
+
+
+
+
+
+###  Lecture Problems: {-}
+
+   1. Derivatives of Polynomials
+      * Find the derivative of the polynomial function:
+        \[
+        f(x) = 5x^4 - 3x^3 + 2x - 7
+        \]
+      * Determine the slope of the function \( f(x) = 4x^3 - x + 6 \) at \( x = 2 \).
+      * Explain the significance of the derivative in understanding the behavior of polynomial functions.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/C5jkO62wuys)</div>
+   2. Monopolies
+      * Define a monopoly and list at least three assumptions or characteristics of a monopolistic market.
+      * Explain why a monopolist is called a “price maker.”
+      * Discuss the implications of barriers to entry in a monopolistic market.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/MNneiFzlWIM)</div>
+   3. Profit Maximization in a Monopoly
+      * Explain the condition \( MR = MC \) in the context of monopoly profit maximization.
+      * Given the demand function \( P = 100 - 2Q \) and total cost function \( TC = 20Q + 100 \), find:
+          * The profit function.
+          * The derivative of the profit function.
+          * The profit-maximizing output level \( Q^* \).
+          * The corresponding price \( P^* \).
+          * The maximum profit.
+      * Why is marginal revenue less than price for a monopolist?
+	  	 <div style="text-align: right;">[Click here for the solution](hhttps://youtu.be/g207cVSDu6Q)</div>
+   4. A monopolist faces the following demand and total cost functions:
+    \[
+    \text{Demand: } P = 1200 - 40Q \quad \text{and} \quad \text{Total Cost: } TC = 200Q + 1000
+    \]
+      * Write the total revenue function \( TR(Q) \).
+      * Find the profit function.
+      * Find the derivative of the profit function.
+      * Find the profit-maximizing quantity \( Q^* \).
+      * Determine the price \( P^* \) the firm should charge.
+      * Calculate the maximum profit.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/AZx5xSc00rI)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Monopolies](https://theelementsmath.github.io/M114/business-economics.html\#monopoly)
+
+
+
+
+
+

@@ -1,0 +1,266 @@
+
+#  (PART) Annuities {-}
+
+
+#  Annuity Basics
+
+
+##  Lecture 13:  Annuity Basics {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define an \textbf{ordinary simple annuity} and identify the key components of an ordinary simple annuity:
+     * Payment amount (PMT)
+     * Interest rate per period (\( i \))
+     * Number of payment periods (\( n \))
+     * Present value (PV)
+     * Future value (FV)
+2. Calculate the \textbf{future value} of an ordinary simple annuity using the formula:
+    \[
+    FV = PMT \left( \frac{(1 + i)^n - 1}{i} \right)
+    \]
+3. Calculate the \textbf{present value} of an ordinary simple annuity using the formula:
+    \[
+    PV = PMT \left( \frac{1 - (1 + i)^{-n}}{i} \right)
+    \]
+4. Interpret the financial meaning of present and future values in real-world contexts, such as loans, savings plans, and retirement funds.
+5. Use financial technology tools (e.g., calculators or spreadsheets) to compute annuity values accurately and efficiently.
+
+###  Review Problems From Last Lecture: {-}
+
+1. What single payment today is equivalent to two future payments of \$600 in 1 year and \$700 in 2 years, assuming 6\% annual compound interest?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/heaWuNOF9Wk)</div>
+2. An investment of \$5,000 earns 4\% interest compounded annually for the first 2 years and then 6\% compounded annually for the next 3 years. What is the value of the investment at the end of 5 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/urUERAWX47I)</div>
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 6.1 -- 6.2 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Ordinary Simple Annuities](https://youtu.be/QSn8-A0wNZo)**  
+An **ordinary simple annuity** is a series of equal payments made at regular intervals, where:
+   * Payments are made at the end of each period.
+   * Interest is calculated using simple interest or consistent compound interest rates.  <br><br>
+2. **Video: [Present Value and Future Value](https://youtu.be/UGp2LF-J0Mo)**  
+The present value (PV) and future value (FV) of an ordinary annuity are given by:
+    \[
+    PV = PMT \left( \frac{1 - (1 + i)^{-n}}{i} \right)
+    \]
+    \[
+    FV = PMT \left( \frac{(1 + i)^n - 1}{i} \right)
+    \] where:
+   * \( PMT \): periodic payment
+   * \( i = \frac{r}{m} \): interest rate per period
+   * \( n = m \cdot t \): total number of payments
+   * Used to find the accumulated value of all payments at the beginning or end of the term. <br><br>
+3. Steps for Solving Annuity Problems:
+   * Identify whether you're solving for FV or PV.
+   * Determine \( PMT \), \( r \), \( m \), \( t \), and calculate \( i \) and \( n \).
+   * Substitute known values into the appropriate formula.
+   * Solve using a calculator or algebraically.
+Assumptions:
+   * Interest rate remains constant over the term.
+   * Payments are equal and made at regular intervals.
+   * Compounding matches the payment frequency.  <br><br>
+
+
+
+###  Lecture Problems: {-}
+
+1. You deposit \$200 at the end of each month into an account that pays 6\% annual interest, compounded monthly. What is the future value after 5 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/OAXT2ToWdBA)</div>
+2. A company contributes \$1,000 at the end of every quarter into a sinking fund earning 4\% compounded quarterly. What will be the total amount in the fund after 10 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/VBQIpujkc1M)</div>
+3. You wish to borrow money and agree to repay it with month end payments of \$500 over 3 years. If the interest rate is 6\% compounded monthly, what is the present value of the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/0wgCXQdIBXo)</div>
+4. A business wants to replace an investment that pays \$2,000 at the end of every 6 months for 8 years. If money is worth 7\% compounded semi-annually, what is the current value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/cceWAK1oBOQ)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Annuities](https://theelementsmath.github.io/M114/annuity-basics.html\#annuities)
+
+
+
+
+
+
+
+
+
+
+##  Lecture 14:  Annuities II {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Identify the components of an annuity: present value, future value, interest rate, payment amount (PMT), number of payments (\(n\)), and payment frequency.
+2. Solve for the periodic payment amount (PMT) in an ordinary general annuity given all other variables.
+3. Determine the number of payments (\(n\)) in an ordinary general annuity when the other variables are known.
+4. Use financial calculators or software (e.g., Excel) to compute PMT and \(n\) in practical scenarios.
+
+###  Review Problems From Last Lecture: {-}
+
+1. You deposit \$250 at the end of every month into a savings account that earns 6\% annual interest, compounded monthly. What will be the future value of the annuity after 5 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/jIm-SqezwN8)</div>
+2. Find the future value of an ordinary annuity with quarterly payments of \$2500, an interest rate of 5\% compounded quarterly, and a term of 8 years.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/agz1d2ru14s)</div>
+3. What is the present value of an ordinary annuity that pays \$350 at the end of each month for 4 years, if the annual interest rate is 6\%, compounded monthly?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/xs2m_aONP-4)</div>
+4. Calculate the present value of an annuity with month end payments of \$450 for 3 years at an interest rate of 4\% compounded monthly.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/0ReGN005_WE)</div>
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Section 6.3 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Calculating $PMT$](https://youtu.be/WV62y3hfJm03)**  
+When the PV or FV of an annuity is known, you can calculate the PMT using the formulas below.
+When **Future Value** is known:
+    \[
+    PMT = \frac{FV \cdot i}{(1 + i)^n - 1}
+    \]
+When **Present Value** is known:
+    \[
+    PMT = \frac{PV \cdot i}{1 - (1 + i)^{-n}}
+    \]  <br><br>
+2. **Video: [Calculating $n$](https://youtu.be/K-wqThNzu2A)**  
+When the PV or FV of an annuity is known, you can calculate the $n$ using the formulas below.
+When **Future Value** is known:
+    \[
+    n = \frac{\ln\left(\frac{FV \cdot i}{PMT} + 1\right)}{\ln(1 + i)}
+    \]
+When **Present Value** is known:
+    \[
+    n = \frac{-\ln\left(1-\frac{i \cdot PV}{PMT}\right)}{\ln(1 + i)}
+    \]
+   * \(i\) is the periodic interest rate: \( i = \frac{r}{m} \), where \(r\) is the annual nominal interest rate, and \(m\) is the number of compounding periods per year.
+   * \(n\) is the total number of payments: \( n = \text{years} \times m \)
+    \item    * \end{itemize} <br><br>
+3. **Video: [Solving for the rate](https://youtu.be/eIW1nf-UtkI)**  
+To calculate the annual interest rate or the periodic interest rate for an annuity, make sure you use a financial calculator.  <br><br>
+
+
+
+###  Lecture Problems: {-}
+
+1. You want to accumulate \$10,000 in 3 years by making monthly deposits into an account that earns 6\% annual interest, compounded monthly. How much should you deposit at the end of each month?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/1koRK_dWxOM)</div>
+2. You borrow \$12,000 to be repaid monthly over 5 years at 6\% annual interest compounded monthly. What is the monthly payment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/iTRNLXzGGvA)</div>
+3. You contribute \$250 at the end of each month into an account earning 6\% annual interest compounded monthly. How many months will it take to accumulate \$8,000?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/g7Z2sU2stCY)</div>
+4. You take out a loan of \$5,000 with monthly payments of \$150 at an annual interest rate of 6\% compounded monthly. How many months will it take to repay the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/CAB2PJszt5I)</div>
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Calculating $PMT$ and $n$](https://theelementsmath.github.io/M114/annuity-basics.html\#calculating-the-periodic-payment-and-number-of-payments)
+
+
+
+
+
+
+
+
+
+##  Lecture 15:  Ordinary General Annuities {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define and distinguish between nominal, effective, and equivalent interest rates.
+2. Convert a nominal annual interest rate compounded \(m_1\) times per year to its equivalent effective annual rate using the formula:
+    \[
+    i_{\text{eff}} = \left(1 +i_i\right)^{m_1} - 1
+    \] 
+    and an equivalent form compounded \(m_2\) times per year using the formula:
+    \[
+    i_2 =  \left( (1 + i_{1})^{m_1/m_2} \right) - 1 .
+    \]
+3. Identify the characteristics of an ordinary general annuity, including differing payment and compounding frequencies.
+4. Calculate the present value (PV), future value (FV), periodic payment (PMT) or  number of payments (\(n\)) of an ordinary general annuity.
+5. Use a financial calculator to solve general annuity problems.
+
+###  Review Problems From Last Lecture: {-}
+
+1. You want to save \$10,000 in 5 years in an account that pays 6\% interest compounded annually. How much should you deposit at the end of each year?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/eyVyq_2Wgu4)</div>
+2. A loan of \$25,000 is to be repaid in monthly payments over 4 years at an annual interest rate of 9\%, compounded monthly. What is the monthly payment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/wbn7X2z9JGM)</div>
+3. You deposit \$200 at the end of each month into a savings account earning 5\% interest compounded monthly. How long will it take to accumulate \$10,000?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Vbx8oxYbk-A)</div>
+4. You take a loan of \$15,000 and agree to repay it with annual payments of \$3,500 at 7\% interest compounded annually. How many years will it take to repay the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/XDfm1eRTefE)</div>
+	  	 
+	  	 
+	  	 
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 6.1, 6.4, and 6.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Equivalent Rates](https://youtu.be/-m7XgzLWk2g)**  
+An **equivalent interest rate** is a rate that gives the same future value as another rate but is compounded at a different frequency. An equivalent periodic interest rate is given by \( i_2 = \left(1 + i_1\right)^{m_1/m_2} - 1 \).  <br><br>
+2. **Video: [Ordinary General Annuities](https://youtu.be/8KY9aTEcZog)**  
+An **ordinary general annuity** is a financial arrangement where equal payments (PMTs) are made at the end of each period, but the payment period and the interest compounding period do not match.
+   * Payments are made at the end of each payment interval.
+   * The payment interval differs from the interest conversion period.
+   * The interest rate must be converted to match the payment frequency.  
+Key definitions:  
+      * \( i_1 \): interest rate per compounding period
+      * \( m_1 \): number of compounding periods per year
+      * \( m_2 \): number of payment periods per year
+      * \( i_1 = \frac{rate}{m_1} \): interest rate per compounding period
+      * \( i_2 = \left(1 + i_1\right)^{m_1/m_2} - 1 \): \textbf{equivalent rate per payment period}
+      * \( n \): total number of payments
+      * \( \text{PMT} \): periodic payment  <br><br>
+3. Steps to Solve General Annuity Problems
+   * Identify the nominal annual rate \( i_1 \), compounding frequency \( m_1 \), and payment frequency \( m_2 \).
+   * Compute the interest per compounding period: \( i_1 = \frac{rate}{m_1} \).
+   * Convert \( i_2 \) to an equivalent payment period rate \( i_2 = \left(1 + i_1 \right)^{m_1/m_2} - 1 \).
+   * Determine total number of payments \( n = \text{years} \times m_2 \).
+   * Apply appropriate formula (FV or PV).  <br><br>
+
+
+###  Lecture Problems: {-}
+
+1. You deposit \$400 at the end of every month into an investment account that earns 6\% interest compounded quarterly. What will be the future value of the annuity after 7 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/59s8zc-RoA4)</div>
+2. You want to buy a car and can afford to pay \$350 at the end of every month for 5 years. If the dealer offers financing at 8\% compounded quarterly, what is the present value of the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/wi6EyYtNxRA)</div>
+3. You want to accumulate \$20,000 in 3 years for a vacation by making quarterly payments into an account that earns 5\% interest compounded monthly. What should each payment be?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/xtDl74YNEW4)</div>
+4. You invest \$300 every 2 months into a fund that will grow to \$10,000 in 5 years. If interest is compounded monthly, what nominal annual interest rate is being earned?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/rYzyGRqF71c)</div>
+5. You invest \$500 at the end of each quarter into an account earning 6\% compounded monthly. How many quarters will it take for the account to reach \$25,000?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Khm8FadwIGA)</div>
+	  	 
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Effective and Equivalent Interest Rates](https://theelementsmath.github.io/M114/annuity-basics.html\#effective-and-equivalent-interest-rates)
+
+*  [Ordinary General Annuities](https://theelementsmath.github.io/M114/annuity-basics.html\#ordinary-general-annuities)
+
+*  [TI BAII plus Calculator for Annuities](https://theelementsmath.github.io/M114/annuity-basics.html\#using-the-ti-baii-plus-calculator-for-annuities)
+
+
+
+
+
+

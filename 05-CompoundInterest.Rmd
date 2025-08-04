@@ -1,0 +1,312 @@
+
+#  Compound Interest
+
+
+##  Lecture 10:  Present and Future Value {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define and distinguish between \textbf{present value} and \textbf{future value} in the context of compound interest.
+2. Use the compound interest formula:
+    \[
+    FV = PV\left(1 + i\right)^{n}
+    \]
+    to calculate the future value of an investment, where
+   * \( FV \): future value
+   * \( PV \): present value (principal)
+   * \( i \): periodic interest rate (per compound period)
+   * \( n \): number of compounding periods for the investment
+3. Use the rearranged formula:
+    \[
+    PV = \dfrac{FV}{\left(1 + i\right)^{n}}
+    \]
+    to determine the present value required to reach a given future value.
+4. Solve problems involving compound interest with annual, semi-annual, quarterly, monthly, and daily compounding frequencies.
+5. Apply compound interest formulas to real-world financial scenarios such as savings accounts, investment growth, and loan balances.
+
+###  Review Problems From Last Lecture: {-}
+
+   1. What is the fair market value today of 3 payments of \$1,000.  The first payment is to be made 150 days from now, the second 225 days from now and the final one 300 days from now.  Use 8.4\% simple interest for all calculations.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/SQhAIwiVOwc)</div>
+   2. You deposit \$2,000 now, \$1,500 in 6 months, and \$1,000 in 1 year. If the interest rate is 4.2\% per annum simple interest,  What is the total future value of all deposits at the end of 18 months?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/2wadK5_GH5E)</div>
+   3. A \$6,000 investment earns 3.5\% simple interest for 4 months, then 5\% for the next 8 months.  Calculate the total interest earned and the final value after 1 year.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/xhKMpIKqCFA)</div>
+   4. A payment of \$950 is due in 9 months. You want to replace it with an equivalent payment made in 2 months.  What amount would be equivalent if the interest rate is 5.5\% per annum simple interest?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/zzLoWKDcHYc)</div>
+
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 5.1 -- 5.2 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [The Basics of CI](https://youtu.be/y99qpJXtx3Q)**  
+The total number of compounding periods is  \( n = m \cdot t \).  The value of \( m \) determines the compounding frequency.   
+   * Annually: \( m = 1 \)
+   * Semi-annually: \( m = 2 \)
+   * Quarterly: \( m = 4 \)
+   * Monthly: \( m = 12 \)
+   * Daily: \( m = 365 \)  <br><br>
+2. **Video: [Compound Interest FV](https://youtu.be/YyV8hybwRT0)**  
+**Video: [Compound Interest PV](https://youtu.be/xu3JoFjM82w)**  
+Compound interest} is interest calculated on the initial principal \textbf{and} also on the accumulated interest from previous periods.  It is calculated using the formula: \[
+FV = PV(1 + i)^n
+\]
+Where:
+\begin{itemize}
+   * \( FV \): Future Value (total amount after interest)
+   * \( PV \): Present Value (initial investment or loan)
+   * \( i \): Interest rate per compounding period \( \left( i = \frac{r}{m} \right) \)
+   * \( n \): Total number of compounding periods \( \left( n = m \cdot t \right) \)
+   * \( r \): Annual nominal interest rate (as a decimal)
+   * \( m \): Number of compounding periods per year
+   * \( t \): Time in years <br><br>
+
+
+
+
+
+
+###  Lecture Problems: {-}
+
+1. You invest \$2,500 at an annual interest rate of 5.2\% compounded monthly for 3 years.  What is the future value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/5w9hc7thqwE)</div>
+2. \$1,800 is deposited into an account earning 4.5\% annual interest compounded quarterly for 5 years.  Find the amount in the account at the end of the term.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/tLfjhf_mshg)</div>
+3. A deposit of \$6,000 is made into a savings account with 3.9\% interest compounded annually for 10 years.  What will the investment be worth at maturity?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/9CMaL7HUPEs)</div>
+4. You want to have \$10,000 in 4 years. The account offers 6\% interest compounded semi-annually.  How much should you invest today?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/p5kNaZKyv7g)</div>
+5. How much should be invested now to grow to \$7,500 in 3 years at 5.25\% interest compounded monthly? 
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/d2MkmbyQmG8)</div>
+6. A future amount of \$12,000 is needed in 6 years. If the account pays 4.8\% compounded quarterly,  what is the present value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/MmyATTVMOK4)</div>
+	  	 
+
+ 
+ 
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Present and Future Value (Compound Interest)](https://theelementsmath.github.io/M114/compound-interest.html\#present-and-future-values)
+
+
+
+
+
+
+
+
+
+##  Lecture 11:  Compound Interest - Rate and Term {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Determine the \textbf{number of compounding periods} (\( n \)) using the formula:
+    \[
+    n = \dfrac{\ln(FV/PV)}{\ln(1+i)}.
+    \]
+
+2. Identify and calculate the \textbf{term} (\( t \)) of an investment or loan in years, months, or other units,
+    \[
+    t = \frac{n}{m},
+    \]
+    where \( m \) is the number of compounding periods per year.
+3. Calculate the \textbf{periodic interest rate}:
+    \[
+    i = \left(\dfrac{FV}{PV} \right)^{1/n} - 1.
+    \]
+    where \( r \) is the annual nominal interest rate.
+4. Calculate the \textbf{nominal interest rate}:
+    \[
+    r = i \times m,
+    \]
+    where \( r \) is the annual nominal interest rate.
+
+###  Review Problems From Last Lecture: {-}
+
+1. You invest \$4,000 at an annual interest rate of 5\% compounded monthly for 3 years.  What is the future value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Csdbw7AIGSA)</div>
+2. You invest \$7,200 in an account that earns 4.25\% compounded annually for 8 years.  How much will the investment be worth at the end of the term?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/4vo1QE6fmXE)</div>
+3. You want to have \$10,000 in 4 years. If the interest rate is 5.5\% compounded semi-annually,  how much should you invest today?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/AZg71adyIfo)</div>
+4. A savings goal of \$8,000 must be met in 3 years. If the bank offers 4.2\% compounded monthly, what is the required initial deposit?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/hCXRx8LGUe4)</div>
+
+ 
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Equivalent Interest Rate](https://youtu.be/n2Z1aLFtaiE)**  
+The **annual nominal interest rate** is the stated annual interest rate.  The **periodic interest rate** is the interest rate applied each compounding period.  Examples include:
+   * Annual compounding: \( i = r \)
+   * Semi-annual: \( i = \frac{r}{2} \)
+   * Quarterly: \( i = \frac{r}{4} \)
+   * Monthly: \( i = \frac{r}{12} \)
+   * Daily: \( i = \frac{r}{365} \)
+    \[
+    i = \left(\dfrac{FV}{PV} \right)^{1/n} - 1.
+    \] <br><br>
+2. **Video: [Term of Investment](https://youtu.be/rfa1WBzjMaY)**  
+The **term of the investment** is how long the money is invested or borrowed.  The **number of compounding periods** is the number of times interest is applied over the entire term.  
+    \[
+    n = \dfrac{\ln(FV/PV)}{\ln(1+i)}.
+    \]  <br><br>
+
+
+
+###  Lecture Problems: {-}
+
+1. \$3,000 grows to \$3,828.81 in a bank account earning 6\% interest compounded annually.  How long was the money invested?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ala74SWNy-Y)</div>
+2. A deposit of \$2,500 grows to \$3,262.78 at an interest rate of 4.5\% compounded quarterly.  How many years did it take to reach that value?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/FTwVwzi5Nf0)</div>
+3. \$4,000 is invested for 4 years and grows to \$5,041.60. The interest is compounded annually.  What is the annual nominal interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3plLnxnEtHU)</div>
+4. An investment of \$6,500 grows to \$8,312.34 over 6 years, compounded monthly.  Find the annual interest rate.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/fnOVWqeE4gI)</div>
+	  	 
+	  	 
+ 
+ 	 
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Calculating the Periodic Interest Rate and Number of Compounding Periods](https://theelementsmath.github.io/M114/compound-interest.html\#calculating-the-periodic-interest-rate-and-number-of-compounding-periods)
+
+
+
+
+
+
+
+
+
+
+##  Lecture 12:  Payment Streams and Equivalent Payments {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1.  Define a payment stream and describe how it differs from a single lump sum investment.
+2. Calculate the future value and present value of a stream of compound interest payments.
+3. Define the concept of equivalent payments and when it applies in financial contexts.
+4. Determine the time value equivalence of payments made at different times and under different interest rates.
+5. Convert a series of unequal payments into a single equivalent payment at a specified point in time.
+6. Solve problems involving multiple interest rates applied over different time intervals.
+7. Use piecewise calculations to find the total future or present value when rates change partway through an investment or loan.
+8. Define continuously compounded interest and compare it to standard compound interest.
+9. Use the formula:
+    \[
+    FV = PV \cdot e^{rt}
+    \]
+    to calculate future value with continuous compounding.
+
+
+###  Review Problems From Last Lecture: {-}
+
+1. An investment of \$3,000 grows to \$3,915.79 in 4 years with quarterly compounding.  What annual interest rate was earned?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/vQc-7wXZqlk)</div>
+2. \$5,000 grows to \$6,734.29 at 6.5\% annual interest compounded monthly.  How long was the money invested?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/M5UPZ7Sv0Hg)</div>
+3. A deposit of \$1,200 increases to \$1,579.35 over 5 years with monthly compounding.  Find the annual nominal interest rate
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/SNO9GQOu4Bs)</div>
+4. A \$1,500 investment becomes \$2,100 at 5\% compounded quarterly.  Find the number of years required.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/sesqd-K7qTM)</div>
+
+
+ 
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 5.4 -- 5.7 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Payment Streams](https://youtu.be/HLUDkVUHNwM)**  
+A **payment stream** is a series of cash flows (payments or deposits) made at regular or irregular intervals over time. These are often used in loan payments, investments, or savings plans. 
+   * Each payment may earn interest depending on when it is made and when it is evaluated.
+   * Time diagrams are useful for visualizing and organizing payment streams.
+   * Payment streams can be evaluated using the concept of future value or present value by summing each individual amount's value at the chosen focal date. <br><br>
+2. **Video: [Equivalent Payments](https://youtu.be/HLUDkVUHNwM)**  
+**Equivalent payments** are payments made at different times that have the same value when brought to a common point in time using interest calculations.
+   * Payments are equivalent if their present or future values are equal at a given focal date.
+   * Used to simplify or compare payment schedules.
+Steps:
+   * Choose a focal date.
+   * Convert each payment to its value at the focal date using simple or compound interest.
+   * Equate values and solve for unknowns (e.g., payment amount, date, interest rate).
+<br><br>
+3. In some financial problems, the interest rate changes at specific intervals during the term of the investment or loan.  
+Approach:
+   * Split the time period into segments where each rate applies.
+   * Apply the interest formula separately for each segment.
+   * Use the output of one period as the input (principal) for the next.
+Formula:
+\[
+FV = PV \cdot (1 + i_1)^{n_1} \cdot (1 + i_2)^{n_2} \cdots (1 + i_k)^{n_k}
+\]
+Where:
+   * \( i_k \) is the periodic interest rate during segment \( k \)
+   * \( n_k \) is the number of periods for rate \( i_k \)
+4. The \textcolor{red}{Continuous compounding} assumes interest is being added at every possible instant. It represents the mathematical limit of compounding frequency.
+Formula:
+\[
+FV = PV \cdot e^{rt}
+\]
+Where:
+   * \( e \approx 2.71828 \) is Euler's number
+   * \( r \) is the annual nominal interest rate (in decimal)
+   * \( t \) is time in years
+<br><br>
+
+
+
+
+###  Lecture Problems: {-}
+
+   1. Three payments of \$800 are made at the end of years 1, 2, and 3 into an account earning 5\% compound interest annually. What is the total value of the payment stream at the end of year 3?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Tqoxyk1YPeo)</div>
+   2. What single payment today is equivalent to two future payments of \$600 in 1 year and \$700 in 2 years, assuming 6\% annual compound interest?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/heaWuNOF9Wk)</div>
+   3. A business wants to replace two payments of \$2,000 due at the end of years 2 and 4 with a single equivalent payment at the end of year 3. If the interest rate is 5\% compounded annually, what should the equivalent payment be?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Q_GTSXLL-9c)</div>
+   4. An investment of \$5,000 earns 4\% interest compounded annually for the first 2 years and then 6\% compounded annually for the next 3 years. What is the value of the investment at the end of 5 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/0_4bwUvlFeg)</div>
+   5. A loan of \$10,000 is repaid over 4 years. For the first 2 years, the interest rate is 5\% annually, and then it changes to 7\% annually. What is the total amount owed at the end of 4 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/DjsulaiwpTc)</div>
+   6. An investment of \$2,500 grows to \$3,200 under continuous compounding over 5 years. What is the annual interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/evQHobJj7GY)</div>
+   7. What is the future value of \$1,200 invested for 6 years at an interest rate of 4.2\% compounded continuously?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/KuNy6RN3H3k)</div>
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Equivalent Payments and Payment Streams](https://theelementsmath.github.io/M114/compound-interest.html\#equivalent-payments-and-payment-streams)
+
+*  [Changing Interest Rates](https://theelementsmath.github.io/M114/compound-interest.html\#changing-interest-rates-1)
+
+*  [Continuously Compounded Interest](https://theelementsmath.github.io/M114/compound-interest.html\#continuously-compounded-interest)
+
+
+

@@ -1,0 +1,275 @@
+
+#  (PART) Simple and Compound Interest {-}
+
+
+
+#  Simple Interest
+
+
+##  Lecture 7:  Simple Interest {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+   1. Define the terms principal (\(P\)), rate (\(r\)), time (\(t\)), and interest (\(I\)) in the context of simple interest.
+   2. State and interpret the simple interest formula: \( I = Prt \).
+   3. Solve for the missing variable (e.g., \(P\), \(r\), or \(t\)) in the formula when the other three are known.
+   4. Convert between different time units (e.g., months to years) to ensure consistency in the formula.
+   5. Apply the simple interest formula to solve real-world financial problems.
+
+###  Review Problems From Last Lecture: {-}
+
+   1. A monopolist does some market research and finds that he has a profit function given by:
+    \[
+    \text{Profit}(x) = -5x^2 + 6300x - 1,\!500,\!000
+    \]
+    What is the profit-maximizing level of output and the maximum profit the monopolist can realize?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/M4wUBGg8I7o)</div>
+   2. A monopolist has done some market research and determined that the demand curve for his good is given by:
+    \[
+    P = -15x + 15,\!010
+    \]
+    Fixed costs for the industry amount to roughly \$1,000,000 while per unit costs are \$10 per unit.  
+      * What is the profit-maximizing level of output? 
+      * How many units should the monopolist produce?  
+      * At what price should the monopolist sell the good?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/9tuhKbFdCow)</div>
+	  	 
+	  	 
+	  	 
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Section 4.1 - 4.3 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Simple Interest](https://youtu.be/zxGUXpDlWgg)**  
+Simple interest is the interest calculated only on the principal amount, not on any interest previously earned.  Simple interest is calculated using the formula \[I = Prt,\] where:
+      * \( I \) = interest earned (\$)
+      * \( P \) = principal (initial investment or loan amount)
+      * \( r \) = annual interest rate (in decimal form)
+      * \( t \) = time (in years)
+<br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  John invests \$2,000 at an annual simple interest rate of 5\% for 4 years.  
+    How much interest will he earn?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/BuhohsmwhBI)</div>
+   1.  A loan of \$1,500 earns \$225 in simple interest at an annual rate of 6\%.  For how many years was the money borrowed?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/lRpx_TdHt-w)</div>
+   1.   If \$360 is earned in 3 years at a simple interest rate of 4\%.  What was the original principal?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/crzQqex-stg)</div>
+   1.  Sarah earned \$450 in interest after investing \$2,500 for 3 years.  What was the annual simple interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/vG7-oWsfi7g)</div>
+   1.  A student deposits \$1,800 in a savings account at a simple interest rate of 3.5\% for 2 years. What will be the total amount in the account at the end of 2 years?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/_ULZWLLe1v8)</div>
+   1.  A borrower takes out a loan of \$3,000 at 10\% simple interest. How much interest is owed after 9 months?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/cr8Rm5gLASA)</div>
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Simple Interest](https://theelementsmath.github.io/M114/simple-interest.html\#simple-interest-1)
+
+
+
+
+
+
+##  Lecture 8:  Present and Future Value {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define key financial concepts related to simple interest, including principal ($P$), rate ($r$), time ($t$), and {future value} ($FV$).
+2. Calculate the {Future Value (FV)} using the formula:
+    \[
+    FV = P(1 + rt)
+    \]
+3. Determine the {present value (PV)} using the formula:
+    \[
+    P = \frac{FV}{1 + rt}
+    \]
+4. Solve for the {interest rate (r)} when $FV$, $P$, and $t$ are known:
+    \[
+    r = \frac{I}{P t}
+    \]
+5. Solve for {time (t)} when $FV$, $P$, and $r$ are known:
+    \[
+    t = \frac{I}{P r}
+    \]
+6. Interpret and explain the results of simple interest calculations in practical financial contexts.
+
+
+
+
+###  Review Problems From Last Lecture: {-}
+
+1. You deposit \$15,000 into an account earning 4.75\% simple interest. How much interest is earned after 4, 8, and 12 months?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/HuDASjD4nMM)</div>
+2. How long will it take for an investment of \$900 to earn \$150 in interest at a rate of 4.25\% simple interest?  Find the time in years and months.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/qlWcS-9gIA0)</div>	  	 
+3. What is the value of a \$750 deposit after 15 months if the deposit earns 6.5\% simple interest?  Find the total amount (principal + interest).
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/TbWUIo3dGTk)</div>
+4. An investment of \$1,200 grew to \$1,275 between June 13, 2009 and August 25, 2010. What annual rate of simple interest was realized?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/fTSXKSAGclc)</div>
+5. You make 3 deposits of \$500 into an account earning 3.8\% simple interest. The first is in January, the second in April, and the final deposit in August.  How much money will be in the account in November? (Assume all deposits are made at the beginning of each month.)
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/UOrxaQ4701U)</div>
+
+
+
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 4.4 -- 4.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Present and Future Value](https://youtu.be/rO37XyVQjW8)**  
+The **future value** of a simple interest investment is the total amount an investment will grow to, including interest.  Future value is calculated using the formula \[FV = P(1 + rt),\] where:  
+     * \( FV \) = future value (amount after interest)
+     * \( P \) = principal (initial investment)
+     * \( r \) = annual interest rate (as a decimal)
+     * \( t \) = time in years <br><br>
+2. The **present value** of a simple interest investments the amount that must be invested today to reach a desired future value.  Present value is calculated using the formula \[ P = \frac{FV}{1 + rt}.\] <br><br>
+3. Rearranging the formula, we can find the term or rate.
+   * Rate: \( r = \dfrac{FV - P}{Pt} = \dfrac{I}{Pt} \)
+   * Time: \( t = \dfrac{FV - P}{Pr} = \dfrac{I}{Pr} \)  <br><br>
+	 
+	 
+	 
+
+###  Lecture Problems: {-}
+
+   1.  You invest \$4,000 at an annual simple interest rate of 5.2\% for 3 years. What is the future value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/ooJiLig1RI8)</div>
+   2.  You want to have \$6,500 in 4 years. The account earns 4.75\% simple interest annually. How much do you need to invest today?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/qZ7aX93LZbE)</div>
+   3.  A \$2,000 investment grows to \$2,260 in 2 years.  What simple interest rate was applied annually?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/QhSdkW94xBM)</div>
+   4.  An investment of \$1,500 grows to \$1,725 at a simple interest rate of 5\%.  How long was the money invested?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/fTSXKSAGclc)</div>
+   5.  A \$1,200 deposit grows to \$1,260 in 9 months. What was the annual simple interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/R5s-Mz-ZkIc)</div>
+   6.  An investment of \$800 earns \$88 in simple interest at an annual rate of 5.5\%.  How long was the money invested? Express your answer in months.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/GwhT6TUKA1Y)</div>
+
+
+
+    
+    
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Present and Future Value](https://theelementsmath.github.io/M114/simple-interest.html\#present-and-future-value)
+
+*  [Rate of Interest and Term of Investments](https://theelementsmath.github.io/M114/simple-interest.html\#rate-of-interest-and-term-of-investments)
+
+
+
+
+
+
+
+
+
+
+##  Lecture 9: Equivalent Payments {.unnumbered}
+
+###  Learning Outcomes: {-}
+
+1. Define the concept of equivalent payments under simple interest.
+2. Determine the time value of money using equivalent payment comparisons.
+3. Calculate an equivalent payment at a different time using simple interest formulas.
+4. Identify and describe payment streams in the context of simple interest.
+5. Calculate the future or present value of multiple payments made at different times.
+6. Evaluate total interest earned or paid on a series of timed payments.
+7. Apply timeline and tabular methods to organize and solve payment stream problems.
+8. Understand how interest rate changes affect simple interest calculations.
+9. Calculate interest over multiple time periods with different interest rates.
+
+###  Review Problems From Last Lecture: {-}
+
+1. An investment of \$3,000 is made at a simple interest rate of 4.5\% per annum for 2 years.  What is the future value of the investment?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/7qmcWXW8fos)</div>
+2. A principal of \$2,400 is invested at a rate of 5.2\% simple interest for 15 months.  What is the future value at the end of the term?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/OxLt9Az2QA8)</div>
+3. A deposit of \$1,000 grows to \$1,040 in 8 months.  What is the annual simple interest rate?
+	  	 <div style="text-align: right;">[Click here for the solution](hhttps://youtu.be/D1t4ZLWUpVI)</div>
+4. How long will it take for \$700 to earn \$98 in interest at 7\% annual simple interest?  Give your answer in years.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/inwp5jWlTSo)</div>
+
+
+ 
+
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+1. **Video: [Payment Streams](https://youtu.be/eCy0_cPgobc)**  
+A **payment stream** is a series of individual payments made at different points in time.  
+   * Each payment earns interest independently from the time it is deposited until the calculation date (e.g., present or future).
+   * To find the \textbf{total future value} or \textbf{present value} of a payment stream:
+      * Calculate the future/present value of each payment separately.
+      * Add the individual values to find the total.
+   * Timeline diagrams are helpful for visualizing and organizing the timing of each payment. <br><br>
+2. **Video: [Equivalent Payments](https://youtu.be/0v4t_Xp7tGo)**  
+Two payments are said to be **equivalent**  if they have the same value at the same point in time, considering the effect of interest.
+   * To compare payments made at different times:
+      * Bring both payments to the same date (using present or future value formulas).
+      * Use \( FV = P(1 + rt) \) or \( P = \frac{FV}{1 + rt} \).
+   * Equivalent payments are used to replace one payment with another while maintaining the same economic value.  <br><br>
+3. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+Changing interest rates: In real-world scenarios, the interest rate may change during the investment or loan period.
+   * For simple interest, calculate interest in segments:
+      * Break the time into periods where each rate applies.
+      * Apply simple interest separately for each period.
+      * Sum the interest amounts to get the total interest.
+   * Formula for each segment: \( I = Prt \)
+   * Final amount: 
+    \[
+    FV = P + I_1 + I_2 + \ldots + I_n
+    \] <br><br>
+
+
+
+
+
+###  Lecture Problems: {-}
+
+   1.  You make three deposits: \$500 in January, \$600 in April, and \$800 in August. If the account earns 4\% simple interest annually, What is the total value of the account at the end of December? (Assume deposits are made at the beginning of each month.)
+	  	 <div style="text-align: right;">[Click here for the solution](b)</div>
+   2.  A business makes payments of \$1,000, \$1,200, and \$1,500 at 6-month intervals into a fund earning 3.5\% simple interest. Find the total future value of all payments 18 months after the first deposit.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/_c-59B-eq24)</div>
+   3.  A loan of \$2,000 is to be repaid in two equal payments: one in 6 months and one in 12 months. If interest is 5\% simple interest annually,  
+What should each payment be to fully repay the loan?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/QK3yk1NInE4)</div>
+   4.  A payment of \$1,200 is due in 10 months. What is the equivalent value of that payment if it is made 4 months from now instead, assuming 4.5\% simple interest?
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Ggslh8jfGrk)</div>
+   5.  A company can either pay \$2,000 now or \$2,150 in 5 months.  Which option is better if the interest rate is 7\% simple interest annually? 
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/e_qfCFdWR4A)</div>
+   6.  An investor deposits \$10,000. The interest rate is 4\% for the first 3 months, 4.5\% for the next 3 months, and 5\% for the next 6 months.  Find the total interest earned at the end of 1 year.
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/PunaGnanvsA)</div>
+
+
+
+
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Equivalent Payments](https://theelementsmath.github.io/M114/simple-interest.html\#equivalent-payments)
+
+*  [Changing Interest Rates](https://theelementsmath.github.io/M114/simple-interest.html\#changing-interest-rates)
+
+
+
+
+

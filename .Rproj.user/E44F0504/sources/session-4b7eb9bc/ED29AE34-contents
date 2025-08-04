@@ -1,0 +1,665 @@
+# Parts
+
+You can add parts to organize one or more book chapters together. Parts can be inserted at the top of an .Rmd file, before the first-level chapter heading in that same file. 
+
+Add a numbered part: `# (PART) Act one {-}` (followed by `# A chapter`)
+
+Add an unnumbered part: `# (PART\*) Act one {-}` (followed by `# A chapter`)
+
+Add an appendix as a special kind of un-numbered part: `# (APPENDIX) Other stuff {-}` (followed by `# A chapter`). Chapters in an appendix are prepended with letters instead of numbers.
+
+
+
+
+
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+##  Lecture 1
+
+###  Learning Outcomes: {-}
+
+1.  
+
+###  Review Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+###  Lecture Notes: {-}
+
+Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+
+
+5. **Video: [Systems of Equations I](https://youtu.be/ooUss4RfLHI)**  
+**Video: [Systems of Equations II](https://youtu.be/rDDTETJjmyY)**  
+You can use the methods of substitution and elimination to solve systems of equations.  
+   1. Use substitution when it is easy to isolate one of the variables in one of the equations and substitute it into the other equation.
+	 2. Use elimination if the coefficients in front of one of the variables is the same size in both equations.
+	 3.  Either method will work for most problems and you are free to use whichever works best for you.  <br><br>
+
+
+###  Lecture Problems: {-}
+
+   1.  Simplify: \[15 + \left[ \frac{3\left(8 + (2 - 10)^2 /4 \right)}{12} \right]^2.\]
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+
+
+###  Additional Problems: {-}
+
+Additional problems that are typically done in class (with video solutions) can be found here:
+
+*  [Solving Systems of Equations](https://theelementsmath.github.io/M114/preliminaries.html\#solving-systems-of-equations)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#  Business Economics
+
+
+
+#  (PART) Simple and Compound Interest {-}
+
+
+
+#  Simple Interest
+
+#  Compound Interest
+
+
+
+#  (PART) Annuities {-}
+
+
+
+#  Annuity Basics
+
+#  More on Annuities
+
+
+
+#  (PART) Investments {-}
+
+
+
+#  Mortgages
