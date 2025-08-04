@@ -147,10 +147,10 @@ Additional problems that are typically done in class (with video solutions) can 
 
 ###  Lecture Notes: {-}
 
-Lecture material for this class come from Sections 1.1 -- 1.5 and can be found below.  This material is considered review material and so it is not covered in depth.
+Lecture material for this class come from Section 5.3 and can be found below.  This material is considered review material and so it is not covered in depth.
 
 
-1. **Video: [Equivalent Interest Rate](https://youtu.be/n2Z1aLFtaiE)**  
+1. **Video: [Periodic and Nominal Interest Rate](https://youtu.be/n2Z1aLFtaiE)**  
 The **annual nominal interest rate** is the stated annual interest rate.  The **periodic interest rate** is the interest rate applied each compounding period.  Examples include:
    * Annual compounding: \( i = r \)
    * Semi-annual: \( i = \frac{r}{2} \)
@@ -239,13 +239,12 @@ Additional problems that are typically done in class (with video solutions) can 
 Lecture material for this class come from Sections 5.4 -- 5.7 and can be found below.  This material is considered review material and so it is not covered in depth.
 
 
-1. **Video: [Payment Streams](https://youtu.be/HLUDkVUHNwM)**  
+1. **Video: [Equivalent Payments and Payment Streams](https://youtu.be/HLUDkVUHNwM)**  
 A **payment stream** is a series of cash flows (payments or deposits) made at regular or irregular intervals over time. These are often used in loan payments, investments, or savings plans. 
    * Each payment may earn interest depending on when it is made and when it is evaluated.
    * Time diagrams are useful for visualizing and organizing payment streams.
    * Payment streams can be evaluated using the concept of future value or present value by summing each individual amount's value at the chosen focal date. <br><br>
-2. **Video: [Equivalent Payments](https://youtu.be/HLUDkVUHNwM)**  
-**Equivalent payments** are payments made at different times that have the same value when brought to a common point in time using interest calculations.
+2. **Equivalent payments** are payments made at different times that have the same value when brought to a common point in time using interest calculations.
    * Payments are equivalent if their present or future values are equal at a given focal date.
    * Used to simplify or compare payment schedules.
 Steps:
@@ -284,7 +283,7 @@ Where:
    1. Three payments of \$800 are made at the end of years 1, 2, and 3 into an account earning 5\% compound interest annually. What is the total value of the payment stream at the end of year 3?
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Tqoxyk1YPeo)</div>
    2. What single payment today is equivalent to two future payments of \$600 in 1 year and \$700 in 2 years, assuming 6\% annual compound interest?
-	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/heaWuNOF9Wk)</div>
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/i35Q8YoohtI)</div>
    3. A business wants to replace two payments of \$2,000 due at the end of years 2 and 4 with a single equivalent payment at the end of year 3. If the interest rate is 5\% compounded annually, what should the equivalent payment be?
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Q_GTSXLL-9c)</div>
    4. An investment of \$5,000 earns 4\% interest compounded annually for the first 2 years and then 6\% compounded annually for the next 3 years. What is the value of the investment at the end of 5 years?

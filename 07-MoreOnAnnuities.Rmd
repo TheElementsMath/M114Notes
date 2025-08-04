@@ -40,9 +40,9 @@
 Lecture material for this class come from Sections 7.1 and can be found below.  This material is considered review material and so it is not covered in depth.
 
 
-1. **Video: [Annuities Due](https://youtu.be/xalP41MWGSg)**  
+1. **Video: [Ordinary Annuities Due](https://youtu.be/xalP41MWGSg)**  
 An **annuity due** is a series of equal payments made at the beginning of each period, rather than at the end (as in an ordinary annuity). This type of annuity is common in situations like rent, lease payments, and insurance premiums. <br><br>
-2. **Video: [PV and FV of Annuities Due](https://youtu.be/knuOJ03sshA)**  
+2. **Video: [General Annuities Due](https://youtu.be/knuOJ03sshA)**  
 Future Value of an Annuity Due
 \[
 FV_{\text{due}} = \text{PMT} \cdot \left[\frac{(1 + i)^n - 1}{i} \right] \cdot (1 + i)
@@ -143,8 +143,7 @@ PV = \frac{\text{PMT}}{i}, \quad \text{where } i > 0
 Key Points:
    * No maturity — payments go on forever.
    * Present value is finite as long as \( i > 0 \).  <br><br>
-3. **Video: [Constant Growth Annuities](https://youtu.be/ooUss4RfLHI)**  
-A **constant growth annuity** is an annuity where the payments grow at a constant rate \( g \) per period.  
+3. A **constant growth annuity** is an annuity where the payments grow at a constant rate \( g \) per period.  
 Formula:
 \[
 PV = \text{PMT}_1 \cdot \frac{1 - (1+g)^n(1+i)^{-n}}{i-g}

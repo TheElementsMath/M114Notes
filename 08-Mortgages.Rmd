@@ -38,8 +38,8 @@
 Lecture material for this class come from Sections 8.1 and can be found below.  This material is considered review material and so it is not covered in depth.
 
 
-5. **Video: [Systems of Equations I](https://youtu.be/vdxdyhyXa8Q)**  
-**Video: [Systems of Equations II](https://youtu.be/tZpRI_6_Og0)**  
+5. **Video: [Loan Amortization Schedules](https://youtu.be/vdxdyhyXa8Q)**  
+**Video: [Mortgages](https://youtu.be/tZpRI_6_Og0)**  
 An **amortization table** shows how a loan is repaid over time through regular periodic payments. Each payment consists of both interest and principal components.  
 Purpose
    * To track how much of each payment goes toward interest vs. principal.

@@ -19,22 +19,22 @@ Lecture material for this class come from Sections 1.1 -- 1.5 and can be found b
 1. **Document:  [Setting up my Calculator](https://www.wikihow.com/Set-Decimal-Places-on-a-TI-BA-II-Plus-Calculator)**   
 Your TIBA II Plus financial calculator does not do BEDMAS the way you think it should.  You will need to change the settings.<br><br>  
 
-2. **Video: [Expanding and Factoring](https://youtu.be/ezGExislcbU)**  
+2. **Video: [BEDMAS](https://youtu.be/ezGExislcbU)**  
 Use BEDMAS to help with order of operations.  
    1. Brackets
    2. Exponents
    3. Multiplication and Division in order from left to right
    4. Addition and Subtraction in order from left to right <br><br>
    
-3. **Video: [Fractions](https://youtu.be/Yf2jnQHyHdQ)**  
+3. **Video: [Rational Numbers](https://youtu.be/Yf2jnQHyHdQ)**  
 Add, subtract, multiply and divide fractions. 
    1. $\frac{a}{b} + \frac{c}{b} = \frac{a+c}{b}$
 	 2. $\frac{a}{b} + \frac{c}{d} = \frac{ad}{bd} + \frac{cb}{db} =  \frac{ad + cb}{bd}$
 	 3. $\frac{a}{b} \times \frac{c}{d} = \frac{ac}{bd}$
 	 4. $\frac{a}{b} \div \frac{c}{d} = \frac{a}{b} \times \frac{d}{c} = \frac{ad}{bc}$  <br><br>
 
-4. **Video: [Equations and Expressions I](https://youtu.be/i8xFdGZ5zOU)**  
-**Video: [Equations and Expressions II](https://youtu.be/Vb_2Aqq08ok)**  
+4. **Video: [Basic Algebra I](https://youtu.be/i8xFdGZ5zOU)**  
+**Video: [Basic Algebra II](https://youtu.be/Vb_2Aqq08ok)**  
 Know how to manipulate equations and expressions. 
    1. Solve linear equations for a given variable.
 	 2. Evaluate expressions.
@@ -103,7 +103,7 @@ Additional problems that are typically done in class (with video solutions) can 
    2.  Simplify the expression: $\;\;\;\;\; 300 \left[\dfrac{(1 + 0.08/2)^{30} - 1}{0.08/2} \right]$.
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/Emv6osLWEvE)</div>
    3.  Solve the following equation for $x$:  $\;\;\;\;\; 15 x - \frac{5}{2} = \frac{15}{2}x + 10$.
-	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/3WmpvL441rA)</div>
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/uo48t8kVRkI)</div>
    41.  Solve the following system of equations:  \begin{align*} x + y &= 13\\ 2x - y &=8 \end{align*}
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/57H_RLVgpc8)</div>
 

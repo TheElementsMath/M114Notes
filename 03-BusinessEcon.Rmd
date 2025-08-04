@@ -183,8 +183,7 @@ Lecture material for this class come from Sections 3.3 and can be found below.  
     \[
     \text{Break-even Quantity} = \frac{FC}{\text{Contribution Margin per Unit}}
     \] <br><br>
-4. **Video: [Shutdown Point](https://youtu.be/td4Veo3q4r4)**  
-      * The shutdown point is the output level where the contribution margin is 0.  The level of output where price equals the variable cost per unit (VC). If price falls below VC, the firm should shut down in the short run. 
+4. The shutdown point is the output level where the contribution margin is 0.  The level of output where price equals the variable cost per unit (VC). If price falls below VC, the firm should shut down in the short run. 
     \[
     \text{Shutdown Point: } CM < 0
     \]
