@@ -1,6 +1,6 @@
 --- 
 title: "Business Mathematics Lecture Notes"
-author: "MATH 114"
+author: "A brief introduction"
 date: " "
 site: bookdown::bookdown_site
 documentclass: book

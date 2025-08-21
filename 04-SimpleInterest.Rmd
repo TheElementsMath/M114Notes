@@ -150,7 +150,7 @@ The **future value** of a simple interest investment is the total amount an inve
    3.  A \$2,000 investment grows to \$2,260 in 2 years.  What simple interest rate was applied annually?
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/QhSdkW94xBM)</div>
    4.  An investment of \$1,500 grows to \$1,725 at a simple interest rate of 5\%.  How long was the money invested?
-	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/fTSXKSAGclc)</div>
+	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/832drqKshY4)</div>
    5.  A \$1,200 deposit grows to \$1,260 in 9 months. What was the annual simple interest rate?
 	  	 <div style="text-align: right;">[Click here for the solution](https://youtu.be/R5s-Mz-ZkIc)</div>
    6.  An investment of \$800 earns \$88 in simple interest at an annual rate of 5.5\%.  How long was the money invested? Express your answer in months.
